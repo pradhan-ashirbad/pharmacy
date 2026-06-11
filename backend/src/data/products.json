@@ -1,0 +1,3018 @@
+[
+  {
+    "id": "med-001",
+    "slug": "dolo-650-tablet",
+    "name": "Dolo 650 Tablet",
+    "brand": "Micro Labs",
+    "category": "otc-medicines",
+    "subcategory": "Pain Relief",
+    "store": "medicines",
+    "price": 28,
+    "mrp": 33,
+    "rating": 4.7,
+    "reviewCount": 12483,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 480,
+    "packSize": "Strip of 15 tablets",
+    "description": "Dolo 650 is one of India's most trusted paracetamol brands, used for relief from fever, headache, body ache and mild to moderate pain. It works by blocking the chemical messengers in the brain responsible for pain and fever.",
+    "highlights": [
+      "Fast and effective relief from fever and pain",
+      "Gentle on the stomach when taken as directed",
+      "Trusted by doctors across India"
+    ],
+    "ingredients": [
+      "Paracetamol 650 mg"
+    ],
+    "dosage": "Adults: 1 tablet every 6–8 hours after food, or as directed by your physician. Do not exceed 4 tablets in 24 hours.",
+    "usage": "Swallow the tablet whole with a glass of water. Take after meals to avoid stomach upset.",
+    "sideEffects": [
+      "Nausea (rare)",
+      "Allergic skin rash (rare)"
+    ],
+    "manufacturer": "Micro Labs Ltd, Bengaluru, Karnataka",
+    "countryOfOrigin": "India",
+    "tags": [
+      "bestseller"
+    ],
+    "image": {
+      "icon": "pill",
+      "tint": "blue"
+    },
+    "healthConcerns": [
+      "immunity"
+    ],
+    "frequentlyBoughtWith": [
+      "vicks-vaporub-50ml",
+      "electral-powder",
+      "strepsils-orange"
+    ]
+  },
+  {
+    "id": "med-002",
+    "slug": "crocin-advance-500",
+    "name": "Crocin Advance 500 Tablet",
+    "brand": "GSK",
+    "category": "otc-medicines",
+    "subcategory": "Pain Relief",
+    "store": "medicines",
+    "price": 25,
+    "mrp": 30,
+    "rating": 4.6,
+    "reviewCount": 8932,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 350,
+    "packSize": "Strip of 20 tablets",
+    "description": "Crocin Advance contains Optizorb technology that helps the tablet disperse up to 5x faster, providing quick relief from headache, fever and body pain.",
+    "highlights": [
+      "Optizorb technology for faster absorption",
+      "Relief from headache, fever & body pain",
+      "Suitable for adults and children above 12 years"
+    ],
+    "ingredients": [
+      "Paracetamol 500 mg"
+    ],
+    "dosage": "Adults: 1–2 tablets every 4–6 hours. Maximum 8 tablets in 24 hours.",
+    "usage": "Take with water. Can be taken with or without food.",
+    "sideEffects": [
+      "Rare allergic reactions"
+    ],
+    "manufacturer": "GlaxoSmithKline Pharmaceuticals Ltd, Mumbai",
+    "countryOfOrigin": "India",
+    "tags": [],
+    "image": {
+      "icon": "pill",
+      "tint": "rose"
+    },
+    "frequentlyBoughtWith": [
+      "dolo-650-tablet",
+      "vicks-vaporub-50ml"
+    ]
+  },
+  {
+    "id": "med-003",
+    "slug": "azithral-500-tablet",
+    "name": "Azithral 500 Tablet",
+    "brand": "Alembic",
+    "category": "prescription-medicines",
+    "subcategory": "Antibiotics",
+    "store": "medicines",
+    "price": 119,
+    "mrp": 132,
+    "rating": 4.5,
+    "reviewCount": 3211,
+    "prescriptionRequired": true,
+    "inStock": true,
+    "stockCount": 120,
+    "packSize": "Strip of 5 tablets",
+    "description": "Azithral 500 is a macrolide antibiotic used to treat various bacterial infections of the respiratory tract, ear, nose, throat and skin. It must be taken only under medical supervision.",
+    "highlights": [
+      "Broad-spectrum macrolide antibiotic",
+      "Short 3–5 day course in most infections",
+      "Prescription required — upload during checkout"
+    ],
+    "ingredients": [
+      "Azithromycin 500 mg"
+    ],
+    "dosage": "As prescribed by your doctor. Typically once daily for 3–5 days.",
+    "usage": "Take at least 1 hour before or 2 hours after meals. Complete the full course even if you feel better.",
+    "sideEffects": [
+      "Nausea",
+      "Abdominal pain",
+      "Diarrhoea"
+    ],
+    "manufacturer": "Alembic Pharmaceuticals Ltd, Vadodara",
+    "countryOfOrigin": "India",
+    "tags": [],
+    "image": {
+      "icon": "pill",
+      "tint": "violet"
+    }
+  },
+  {
+    "id": "med-004",
+    "slug": "augmentin-625-duo",
+    "name": "Augmentin 625 Duo Tablet",
+    "brand": "GSK",
+    "category": "prescription-medicines",
+    "subcategory": "Antibiotics",
+    "store": "medicines",
+    "price": 201,
+    "mrp": 224,
+    "rating": 4.4,
+    "reviewCount": 5621,
+    "prescriptionRequired": true,
+    "inStock": true,
+    "stockCount": 90,
+    "packSize": "Strip of 10 tablets",
+    "description": "Augmentin 625 Duo is a penicillin-class combination antibiotic effective against a wide range of bacterial infections including sinusitis, throat infections, and urinary tract infections.",
+    "highlights": [
+      "Amoxicillin + Clavulanic acid combination",
+      "Effective against resistant bacterial strains",
+      "Prescription required — upload during checkout"
+    ],
+    "ingredients": [
+      "Amoxicillin 500 mg",
+      "Clavulanic Acid 125 mg"
+    ],
+    "dosage": "As prescribed by your doctor. Typically twice daily with meals.",
+    "usage": "Take with a meal to reduce stomach upset. Complete the full course.",
+    "sideEffects": [
+      "Diarrhoea",
+      "Nausea",
+      "Skin rash (uncommon)"
+    ],
+    "manufacturer": "GlaxoSmithKline Pharmaceuticals Ltd, Mumbai",
+    "countryOfOrigin": "India",
+    "tags": [],
+    "image": {
+      "icon": "pill",
+      "tint": "teal"
+    }
+  },
+  {
+    "id": "med-005",
+    "slug": "pan-40-tablet",
+    "name": "Pan 40 Tablet",
+    "brand": "Alkem",
+    "category": "prescription-medicines",
+    "subcategory": "Acidity & Gas",
+    "store": "medicines",
+    "price": 110,
+    "mrp": 124,
+    "rating": 4.6,
+    "reviewCount": 7203,
+    "prescriptionRequired": true,
+    "inStock": true,
+    "stockCount": 200,
+    "packSize": "Strip of 15 tablets",
+    "description": "Pan 40 contains pantoprazole, a proton pump inhibitor that reduces stomach acid production. It is used in acidity, heartburn, GERD and stomach ulcers.",
+    "highlights": [
+      "24-hour relief from acidity and heartburn",
+      "Heals and prevents acid-related ulcers",
+      "Best taken before the first meal of the day"
+    ],
+    "ingredients": [
+      "Pantoprazole 40 mg"
+    ],
+    "dosage": "1 tablet once daily before breakfast, or as directed by your physician.",
+    "usage": "Swallow whole on an empty stomach, 30–60 minutes before food.",
+    "sideEffects": [
+      "Headache",
+      "Flatulence",
+      "Dizziness (rare)"
+    ],
+    "manufacturer": "Alkem Laboratories Ltd, Mumbai",
+    "countryOfOrigin": "India",
+    "tags": [
+      "bestseller"
+    ],
+    "image": {
+      "icon": "pill",
+      "tint": "amber"
+    },
+    "frequentlyBoughtWith": [
+      "digene-gel-mint"
+    ]
+  },
+  {
+    "id": "med-006",
+    "slug": "telma-40-tablet",
+    "name": "Telma 40 Tablet",
+    "brand": "Glenmark",
+    "category": "prescription-medicines",
+    "subcategory": "Blood Pressure",
+    "store": "medicines",
+    "price": 196,
+    "mrp": 219,
+    "rating": 4.7,
+    "reviewCount": 4150,
+    "prescriptionRequired": true,
+    "inStock": true,
+    "stockCount": 160,
+    "packSize": "Strip of 30 tablets",
+    "description": "Telma 40 contains telmisartan, an angiotensin receptor blocker used to treat high blood pressure and protect the heart and kidneys in long-term therapy.",
+    "highlights": [
+      "Smooth 24-hour blood pressure control",
+      "Protects heart and kidney function",
+      "Once-daily convenient dosing"
+    ],
+    "ingredients": [
+      "Telmisartan 40 mg"
+    ],
+    "dosage": "1 tablet once daily at the same time each day, as prescribed.",
+    "usage": "Can be taken with or without food. Do not stop without consulting your doctor.",
+    "sideEffects": [
+      "Dizziness",
+      "Back pain (rare)"
+    ],
+    "manufacturer": "Glenmark Pharmaceuticals Ltd, Mumbai",
+    "countryOfOrigin": "India",
+    "tags": [],
+    "image": {
+      "icon": "heart",
+      "tint": "rose"
+    },
+    "healthConcerns": [
+      "heart-care",
+      "senior-care"
+    ],
+    "frequentlyBoughtWith": [
+      "ecosprin-75-tablet",
+      "omron-hem-7120-bp-monitor"
+    ]
+  },
+  {
+    "id": "med-007",
+    "slug": "glycomet-gp1-tablet",
+    "name": "Glycomet GP 1 Tablet",
+    "brand": "USV",
+    "category": "diabetes-care",
+    "subcategory": "Diabetes Medicines",
+    "store": "medicines",
+    "price": 152,
+    "mrp": 169,
+    "rating": 4.6,
+    "reviewCount": 3892,
+    "prescriptionRequired": true,
+    "inStock": true,
+    "stockCount": 140,
+    "packSize": "Strip of 15 tablets",
+    "description": "Glycomet GP 1 is a combination of metformin and glimepiride used to control blood sugar levels in type 2 diabetes, improving the body's response to insulin.",
+    "highlights": [
+      "Dual-action blood sugar control",
+      "Reduces HbA1c effectively over time",
+      "Take with the first bite of your meal"
+    ],
+    "ingredients": [
+      "Metformin 500 mg",
+      "Glimepiride 1 mg"
+    ],
+    "dosage": "As prescribed. Usually once daily with breakfast.",
+    "usage": "Take with food to avoid stomach upset. Monitor blood sugar regularly.",
+    "sideEffects": [
+      "Hypoglycaemia",
+      "Nausea",
+      "Metallic taste"
+    ],
+    "manufacturer": "USV Pvt Ltd, Mumbai",
+    "countryOfOrigin": "India",
+    "tags": [],
+    "image": {
+      "icon": "glucose",
+      "tint": "sky"
+    },
+    "healthConcerns": [
+      "diabetes"
+    ],
+    "frequentlyBoughtWith": [
+      "accu-chek-active-strips-50",
+      "sugar-free-gold-500"
+    ]
+  },
+  {
+    "id": "med-008",
+    "slug": "allegra-120-tablet",
+    "name": "Allegra 120mg Tablet",
+    "brand": "Sanofi",
+    "category": "otc-medicines",
+    "subcategory": "Cold & Allergy",
+    "store": "medicines",
+    "price": 218,
+    "mrp": 243,
+    "rating": 4.6,
+    "reviewCount": 6710,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 220,
+    "packSize": "Strip of 10 tablets",
+    "description": "Allegra 120 provides 24-hour non-drowsy relief from sneezing, runny nose, itchy or watery eyes and other allergy symptoms caused by dust, pollen and pets.",
+    "highlights": [
+      "24-hour allergy relief",
+      "Non-drowsy formula",
+      "Works within 1 hour"
+    ],
+    "ingredients": [
+      "Fexofenadine 120 mg"
+    ],
+    "dosage": "Adults: 1 tablet once daily.",
+    "usage": "Take with water, preferably before exposure to allergens.",
+    "sideEffects": [
+      "Headache (rare)",
+      "Mild drowsiness (rare)"
+    ],
+    "manufacturer": "Sanofi India Ltd, Mumbai",
+    "countryOfOrigin": "India",
+    "tags": [
+      "trending"
+    ],
+    "image": {
+      "icon": "pill",
+      "tint": "mint"
+    },
+    "healthConcerns": [
+      "immunity"
+    ]
+  },
+  {
+    "id": "med-009",
+    "slug": "okacet-cetirizine-tablet",
+    "name": "Okacet Cetirizine Tablet",
+    "brand": "Cipla",
+    "category": "otc-medicines",
+    "subcategory": "Cold & Allergy",
+    "store": "medicines",
+    "price": 17,
+    "mrp": 21,
+    "rating": 4.5,
+    "reviewCount": 4521,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 500,
+    "packSize": "Strip of 10 tablets",
+    "description": "Okacet is a fast-acting antihistamine for relief from allergic rhinitis, sneezing, itching and hives. A trusted everyday allergy remedy at an affordable price.",
+    "highlights": [
+      "Fast relief from allergy symptoms",
+      "Affordable everyday antihistamine",
+      "Single tablet lasts up to 24 hours"
+    ],
+    "ingredients": [
+      "Cetirizine 10 mg"
+    ],
+    "dosage": "Adults: 1 tablet once daily, preferably at night.",
+    "usage": "Swallow with water. May cause mild drowsiness.",
+    "sideEffects": [
+      "Drowsiness",
+      "Dry mouth"
+    ],
+    "manufacturer": "Cipla Ltd, Mumbai",
+    "countryOfOrigin": "India",
+    "tags": [],
+    "image": {
+      "icon": "pill",
+      "tint": "green"
+    }
+  },
+  {
+    "id": "med-010",
+    "slug": "combiflam-tablet",
+    "name": "Combiflam Tablet",
+    "brand": "Sanofi",
+    "category": "otc-medicines",
+    "subcategory": "Pain Relief",
+    "store": "medicines",
+    "price": 47,
+    "mrp": 55,
+    "rating": 4.5,
+    "reviewCount": 9120,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 310,
+    "packSize": "Strip of 20 tablets",
+    "description": "Combiflam combines ibuprofen and paracetamol for stronger relief from headache, muscle pain, toothache, joint pain and fever.",
+    "highlights": [
+      "Dual-action pain relief",
+      "Effective for tooth, muscle and joint pain",
+      "Trusted household name for decades"
+    ],
+    "ingredients": [
+      "Ibuprofen 400 mg",
+      "Paracetamol 325 mg"
+    ],
+    "dosage": "Adults: 1 tablet every 8 hours after food. Max 3 tablets/day.",
+    "usage": "Always take after food to protect the stomach lining.",
+    "sideEffects": [
+      "Heartburn",
+      "Nausea",
+      "Stomach pain if taken empty stomach"
+    ],
+    "manufacturer": "Sanofi India Ltd, Mumbai",
+    "countryOfOrigin": "India",
+    "tags": [
+      "bestseller"
+    ],
+    "image": {
+      "icon": "pill",
+      "tint": "sky"
+    },
+    "frequentlyBoughtWith": [
+      "volini-pain-relief-spray",
+      "moov-pain-relief-cream"
+    ]
+  },
+  {
+    "id": "med-011",
+    "slug": "volini-pain-relief-spray",
+    "name": "Volini Pain Relief Spray",
+    "brand": "Sun Pharma",
+    "category": "otc-medicines",
+    "subcategory": "Pain Relief",
+    "store": "medicines",
+    "price": 235,
+    "mrp": 275,
+    "rating": 4.6,
+    "reviewCount": 11240,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 180,
+    "packSize": "Spray bottle of 100 g",
+    "description": "Volini spray provides quick, targeted relief from back pain, neck pain, sprains, muscle pulls and joint pain. Its no-touch application makes it convenient anywhere.",
+    "highlights": [
+      "Acts within minutes on sprains & strains",
+      "No-touch spray application",
+      "Non-sticky and quick drying"
+    ],
+    "ingredients": [
+      "Diclofenac",
+      "Menthol",
+      "Methyl Salicylate"
+    ],
+    "usage": "Spray on the affected area from 3–5 cm away, 3–4 times daily. Do not bandage tightly.",
+    "sideEffects": [
+      "Mild skin irritation (rare)"
+    ],
+    "manufacturer": "Sun Pharmaceutical Industries Ltd, Mumbai",
+    "countryOfOrigin": "India",
+    "tags": [
+      "trending"
+    ],
+    "image": {
+      "icon": "spray",
+      "tint": "violet"
+    },
+    "frequentlyBoughtWith": [
+      "combiflam-tablet",
+      "moov-pain-relief-cream"
+    ]
+  },
+  {
+    "id": "med-012",
+    "slug": "moov-pain-relief-cream",
+    "name": "Moov Pain Relief Cream",
+    "brand": "Reckitt",
+    "category": "otc-medicines",
+    "subcategory": "Pain Relief",
+    "store": "medicines",
+    "price": 148,
+    "mrp": 165,
+    "rating": 4.5,
+    "reviewCount": 7654,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 240,
+    "packSize": "Tube of 50 g",
+    "description": "Moov is an ayurvedic pain relief cream with wintergreen oil and eucalyptus that penetrates deep to relieve back pain, sprains and muscular aches.",
+    "highlights": [
+      "Ayurvedic formula with wintergreen oil",
+      "Deep penetrating warmth",
+      "India's trusted back pain specialist"
+    ],
+    "ingredients": [
+      "Wintergreen Oil",
+      "Eucalyptus Oil",
+      "Mint Extract",
+      "Turpentine Oil"
+    ],
+    "usage": "Massage gently onto the affected area 2–3 times a day.",
+    "sideEffects": [
+      "Warm sensation on application"
+    ],
+    "manufacturer": "Reckitt Benckiser (India) Ltd, Gurugram",
+    "countryOfOrigin": "India",
+    "tags": [],
+    "image": {
+      "icon": "cream",
+      "tint": "amber"
+    }
+  },
+  {
+    "id": "med-013",
+    "slug": "vicks-vaporub-50ml",
+    "name": "Vicks VapoRub",
+    "brand": "P&G",
+    "category": "otc-medicines",
+    "subcategory": "Cold & Cough",
+    "store": "medicines",
+    "price": 155,
+    "mrp": 170,
+    "rating": 4.8,
+    "reviewCount": 15321,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 400,
+    "packSize": "Jar of 50 ml",
+    "description": "Vicks VapoRub provides relief from blocked nose, cough and cold with the soothing vapours of menthol, camphor and eucalyptus oil.",
+    "highlights": [
+      "Relief from blocked nose & cough",
+      "Soothing menthol vapours all night",
+      "Family favourite for generations"
+    ],
+    "ingredients": [
+      "Menthol",
+      "Camphor",
+      "Eucalyptus Oil",
+      "Turpentine Oil"
+    ],
+    "usage": "Rub gently on chest, throat and back. For steam inhalation, add a spoonful to hot water.",
+    "sideEffects": [
+      "None when used as directed"
+    ],
+    "manufacturer": "Procter & Gamble Health Ltd, Mumbai",
+    "countryOfOrigin": "India",
+    "tags": [
+      "bestseller"
+    ],
+    "image": {
+      "icon": "cream",
+      "tint": "teal"
+    },
+    "frequentlyBoughtWith": [
+      "dolo-650-tablet",
+      "strepsils-orange"
+    ]
+  },
+  {
+    "id": "med-014",
+    "slug": "benadryl-cough-syrup",
+    "name": "Benadryl Cough Syrup",
+    "brand": "Kenvue",
+    "category": "otc-medicines",
+    "subcategory": "Cold & Cough",
+    "store": "medicines",
+    "price": 122,
+    "mrp": 135,
+    "rating": 4.4,
+    "reviewCount": 5230,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 150,
+    "packSize": "Bottle of 150 ml",
+    "description": "Benadryl cough formula provides effective relief from cough and throat irritation, loosening mucus and suppressing the urge to cough.",
+    "highlights": [
+      "Relief from wet & dry cough",
+      "Soothes throat irritation",
+      "Trusted cough remedy since decades"
+    ],
+    "ingredients": [
+      "Diphenhydramine",
+      "Ammonium Chloride",
+      "Sodium Citrate"
+    ],
+    "dosage": "Adults: 10 ml every 4–6 hours. Children: as directed by physician.",
+    "usage": "Shake well before use. Use the measuring cup provided.",
+    "sideEffects": [
+      "Drowsiness",
+      "Dry mouth"
+    ],
+    "manufacturer": "Kenvue India Pvt Ltd, Mumbai",
+    "countryOfOrigin": "India",
+    "tags": [],
+    "image": {
+      "icon": "syrup",
+      "tint": "rose"
+    }
+  },
+  {
+    "id": "med-015",
+    "slug": "digene-gel-mint",
+    "name": "Digene Antacid Gel — Mint",
+    "brand": "Abbott",
+    "category": "otc-medicines",
+    "subcategory": "Acidity & Gas",
+    "store": "medicines",
+    "price": 187,
+    "mrp": 208,
+    "rating": 4.5,
+    "reviewCount": 6843,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 170,
+    "packSize": "Bottle of 450 ml",
+    "description": "Digene gel quickly neutralises excess stomach acid, relieving acidity, heartburn, gas and indigestion with a refreshing mint flavour.",
+    "highlights": [
+      "Instant relief from acidity & gas",
+      "Refreshing mint flavour",
+      "Soothes the stomach lining"
+    ],
+    "ingredients": [
+      "Magnesium Hydroxide",
+      "Aluminium Hydroxide",
+      "Simethicone"
+    ],
+    "dosage": "2 teaspoonfuls after meals and at bedtime, or as directed.",
+    "usage": "Shake well before use. Do not take within 2 hours of other medicines.",
+    "sideEffects": [
+      "Mild constipation or diarrhoea (rare)"
+    ],
+    "manufacturer": "Abbott India Ltd, Mumbai",
+    "countryOfOrigin": "India",
+    "tags": [],
+    "image": {
+      "icon": "syrup",
+      "tint": "mint"
+    },
+    "frequentlyBoughtWith": [
+      "pan-40-tablet"
+    ]
+  },
+  {
+    "id": "med-016",
+    "slug": "electral-powder",
+    "name": "Electral Powder ORS",
+    "brand": "FDC",
+    "category": "otc-medicines",
+    "subcategory": "Rehydration",
+    "store": "medicines",
+    "price": 22,
+    "mrp": 24,
+    "rating": 4.7,
+    "reviewCount": 8123,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 600,
+    "packSize": "Sachet of 21.8 g",
+    "description": "Electral is a WHO-recommended oral rehydration salt formula that restores body fluids and electrolytes lost due to dehydration, diarrhoea or heat.",
+    "highlights": [
+      "WHO-recommended ORS formula",
+      "Rapid rehydration & energy",
+      "Ideal for summer heat & travel"
+    ],
+    "ingredients": [
+      "Sodium Chloride",
+      "Potassium Chloride",
+      "Sodium Citrate",
+      "Dextrose"
+    ],
+    "usage": "Dissolve the entire sachet in 1 litre of clean drinking water. Consume within 24 hours.",
+    "sideEffects": [
+      "None when prepared correctly"
+    ],
+    "manufacturer": "FDC Ltd, Mumbai",
+    "countryOfOrigin": "India",
+    "tags": [],
+    "image": {
+      "icon": "powder",
+      "tint": "sky"
+    }
+  },
+  {
+    "id": "med-017",
+    "slug": "ecosprin-75-tablet",
+    "name": "Ecosprin 75 Tablet",
+    "brand": "USV",
+    "category": "prescription-medicines",
+    "subcategory": "Heart Care",
+    "store": "medicines",
+    "price": 9,
+    "mrp": 10,
+    "rating": 4.7,
+    "reviewCount": 3450,
+    "prescriptionRequired": true,
+    "inStock": true,
+    "stockCount": 300,
+    "packSize": "Strip of 14 tablets",
+    "description": "Ecosprin 75 is a low-dose aspirin used to prevent blood clots, reducing the risk of heart attack and stroke in at-risk patients.",
+    "highlights": [
+      "Prevents clot formation",
+      "Cardio-protective low dose",
+      "Enteric coated — gentle on stomach"
+    ],
+    "ingredients": [
+      "Aspirin 75 mg"
+    ],
+    "dosage": "1 tablet daily after food, or as prescribed by your cardiologist.",
+    "usage": "Swallow whole, do not crush or chew. Take after meals.",
+    "sideEffects": [
+      "Stomach irritation",
+      "Increased bleeding tendency"
+    ],
+    "manufacturer": "USV Pvt Ltd, Mumbai",
+    "countryOfOrigin": "India",
+    "tags": [],
+    "image": {
+      "icon": "heart",
+      "tint": "rose"
+    },
+    "healthConcerns": [
+      "heart-care",
+      "senior-care"
+    ],
+    "frequentlyBoughtWith": [
+      "telma-40-tablet"
+    ]
+  },
+  {
+    "id": "med-018",
+    "slug": "shelcal-500-tablet",
+    "name": "Shelcal 500 Tablet",
+    "brand": "Torrent",
+    "category": "otc-medicines",
+    "subcategory": "Bone & Joint",
+    "store": "medicines",
+    "price": 108,
+    "mrp": 120,
+    "rating": 4.6,
+    "reviewCount": 6234,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 260,
+    "packSize": "Strip of 15 tablets",
+    "description": "Shelcal 500 is a calcium and vitamin D3 supplement that supports strong bones and teeth, recommended widely for women, seniors and those with low dietary calcium.",
+    "highlights": [
+      "Calcium 500 mg + Vitamin D3 250 IU",
+      "Supports bone density & strength",
+      "India's #1 prescribed calcium brand"
+    ],
+    "ingredients": [
+      "Calcium Carbonate 1250 mg (equiv. 500 mg elemental calcium)",
+      "Vitamin D3 250 IU"
+    ],
+    "dosage": "1 tablet once or twice daily after meals.",
+    "usage": "Best absorbed when taken after food.",
+    "sideEffects": [
+      "Constipation (rare)",
+      "Bloating (rare)"
+    ],
+    "manufacturer": "Torrent Pharmaceuticals Ltd, Ahmedabad",
+    "countryOfOrigin": "India",
+    "tags": [
+      "bestseller"
+    ],
+    "image": {
+      "icon": "bone",
+      "tint": "amber"
+    },
+    "healthConcerns": [
+      "womens-health",
+      "senior-care"
+    ]
+  },
+  {
+    "id": "med-019",
+    "slug": "thyronorm-50-tablet",
+    "name": "Thyronorm 50mcg Tablet",
+    "brand": "Abbott",
+    "category": "prescription-medicines",
+    "subcategory": "Thyroid Care",
+    "store": "medicines",
+    "price": 137,
+    "mrp": 152,
+    "rating": 4.7,
+    "reviewCount": 4892,
+    "prescriptionRequired": true,
+    "inStock": true,
+    "stockCount": 190,
+    "packSize": "Bottle of 120 tablets",
+    "description": "Thyronorm 50 contains thyroxine, a replacement for the hormone normally produced by the thyroid gland, used to treat hypothyroidism.",
+    "highlights": [
+      "Restores normal thyroid hormone levels",
+      "Take on empty stomach for best absorption",
+      "Most prescribed thyroid brand in India"
+    ],
+    "ingredients": [
+      "Thyroxine Sodium 50 mcg"
+    ],
+    "dosage": "As prescribed. Usually once daily on an empty stomach, 30–60 min before breakfast.",
+    "usage": "Take at the same time daily. Avoid taking with calcium or iron supplements.",
+    "sideEffects": [
+      "Palpitations (if over-dosed)",
+      "Weight changes"
+    ],
+    "manufacturer": "Abbott India Ltd, Mumbai",
+    "countryOfOrigin": "India",
+    "tags": [],
+    "image": {
+      "icon": "pill",
+      "tint": "violet"
+    },
+    "healthConcerns": [
+      "womens-health"
+    ]
+  },
+  {
+    "id": "med-020",
+    "slug": "montair-lc-tablet",
+    "name": "Montair LC Tablet",
+    "brand": "Cipla",
+    "category": "prescription-medicines",
+    "subcategory": "Respiratory Care",
+    "store": "medicines",
+    "price": 255,
+    "mrp": 284,
+    "rating": 4.5,
+    "reviewCount": 3567,
+    "prescriptionRequired": true,
+    "inStock": true,
+    "stockCount": 110,
+    "packSize": "Strip of 15 tablets",
+    "description": "Montair LC combines montelukast and levocetirizine for the management of allergic rhinitis and asthma-related symptoms like sneezing, wheezing and breathlessness.",
+    "highlights": [
+      "Dual action for allergy & asthma symptoms",
+      "Night-time dosing improves morning symptoms",
+      "Prescription required — upload during checkout"
+    ],
+    "ingredients": [
+      "Montelukast 10 mg",
+      "Levocetirizine 5 mg"
+    ],
+    "dosage": "1 tablet once daily in the evening, as prescribed.",
+    "usage": "Take regularly, even when symptom-free, for full benefit.",
+    "sideEffects": [
+      "Drowsiness",
+      "Headache",
+      "Dry mouth"
+    ],
+    "manufacturer": "Cipla Ltd, Mumbai",
+    "countryOfOrigin": "India",
+    "tags": [],
+    "image": {
+      "icon": "pill",
+      "tint": "sky"
+    }
+  },
+  {
+    "id": "med-021",
+    "slug": "betadine-ointment-20g",
+    "name": "Betadine 10% Ointment",
+    "brand": "Win-Medicare",
+    "category": "otc-medicines",
+    "subcategory": "First Aid",
+    "store": "medicines",
+    "price": 132,
+    "mrp": 147,
+    "rating": 4.6,
+    "reviewCount": 4322,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 210,
+    "packSize": "Tube of 20 g",
+    "description": "Betadine ointment is a povidone-iodine antiseptic used to prevent and treat infection in minor cuts, wounds, burns and abrasions.",
+    "highlights": [
+      "Broad-spectrum antiseptic action",
+      "Prevents wound infections",
+      "Essential for every first-aid kit"
+    ],
+    "ingredients": [
+      "Povidone Iodine 10% w/w"
+    ],
+    "usage": "Clean the wound and apply a thin layer 1–3 times daily. Cover with a sterile bandage if needed.",
+    "sideEffects": [
+      "Local irritation (rare)"
+    ],
+    "manufacturer": "Win-Medicare Pvt Ltd, New Delhi",
+    "countryOfOrigin": "India",
+    "tags": [],
+    "image": {
+      "icon": "cream",
+      "tint": "rose"
+    }
+  },
+  {
+    "id": "med-022",
+    "slug": "saridon-tablet",
+    "name": "Saridon Tablet",
+    "brand": "Bayer",
+    "category": "otc-medicines",
+    "subcategory": "Pain Relief",
+    "store": "medicines",
+    "price": 42,
+    "mrp": 47,
+    "rating": 4.5,
+    "reviewCount": 7012,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 330,
+    "packSize": "Strip of 10 tablets",
+    "description": "Saridon is a triple-action formula for fast headache relief, starting to work in as little as 15 minutes.",
+    "highlights": [
+      "Headache relief in 15 minutes",
+      "Triple-action formula",
+      "India's trusted headache specialist"
+    ],
+    "ingredients": [
+      "Paracetamol 250 mg",
+      "Propyphenazone 150 mg",
+      "Caffeine 50 mg"
+    ],
+    "dosage": "Adults: 1 tablet up to 3 times a day.",
+    "usage": "Take with water at the first sign of headache.",
+    "sideEffects": [
+      "Nausea (rare)"
+    ],
+    "manufacturer": "Bayer Pharmaceuticals Pvt Ltd, Thane",
+    "countryOfOrigin": "India",
+    "tags": [],
+    "image": {
+      "icon": "brain",
+      "tint": "blue"
+    }
+  },
+  {
+    "id": "med-023",
+    "slug": "zincovit-tablet",
+    "name": "Zincovit Multivitamin Tablet",
+    "brand": "Apex Labs",
+    "category": "otc-medicines",
+    "subcategory": "Multivitamins",
+    "store": "medicines",
+    "price": 105,
+    "mrp": 115,
+    "rating": 4.6,
+    "reviewCount": 9876,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 280,
+    "packSize": "Strip of 15 tablets",
+    "description": "Zincovit combines essential vitamins, minerals and grape seed extract to fill nutritional gaps, boost immunity and fight fatigue.",
+    "highlights": [
+      "26 essential vitamins & minerals",
+      "Boosts immunity & energy",
+      "With grape seed extract antioxidants"
+    ],
+    "ingredients": [
+      "Vitamins A–E",
+      "Zinc",
+      "Selenium",
+      "Grape Seed Extract"
+    ],
+    "dosage": "1 tablet daily after a meal, or as directed.",
+    "usage": "Best taken after breakfast for all-day energy.",
+    "sideEffects": [
+      "None when taken as directed"
+    ],
+    "manufacturer": "Apex Laboratories Pvt Ltd, Chennai",
+    "countryOfOrigin": "India",
+    "tags": [
+      "bestseller"
+    ],
+    "image": {
+      "icon": "supplement",
+      "tint": "green"
+    },
+    "healthConcerns": [
+      "immunity"
+    ]
+  },
+  {
+    "id": "med-024",
+    "slug": "strepsils-orange",
+    "name": "Strepsils Orange Lozenges",
+    "brand": "Reckitt",
+    "category": "otc-medicines",
+    "subcategory": "Cold & Cough",
+    "store": "medicines",
+    "price": 50,
+    "mrp": 55,
+    "rating": 4.5,
+    "reviewCount": 5430,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 350,
+    "packSize": "Strip of 8 lozenges",
+    "description": "Strepsils lozenges provide soothing relief from sore throat with dual antiseptic action, in a tangy orange flavour with vitamin C.",
+    "highlights": [
+      "Soothes sore throat in minutes",
+      "Dual antiseptic action",
+      "Tangy orange flavour with Vitamin C"
+    ],
+    "ingredients": [
+      "Amylmetacresol",
+      "Dichlorobenzyl Alcohol",
+      "Vitamin C"
+    ],
+    "usage": "Dissolve one lozenge slowly in the mouth every 2–3 hours. Max 12 per day.",
+    "sideEffects": [
+      "None when used as directed"
+    ],
+    "manufacturer": "Reckitt Benckiser (India) Ltd, Gurugram",
+    "countryOfOrigin": "India",
+    "tags": [],
+    "image": {
+      "icon": "pill",
+      "tint": "amber"
+    }
+  },
+  {
+    "id": "med-025",
+    "slug": "gelusil-mps-tablet",
+    "name": "Gelusil MPS Chewable Tablet",
+    "brand": "Pfizer",
+    "category": "otc-medicines",
+    "subcategory": "Acidity & Gas",
+    "store": "medicines",
+    "price": 95,
+    "mrp": 105,
+    "rating": 4.4,
+    "reviewCount": 3210,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 230,
+    "packSize": "Strip of 15 tablets",
+    "description": "Gelusil MPS chewable tablets neutralise acid instantly and relieve gas and bloating with a pleasant mint flavour — handy relief on the go.",
+    "highlights": [
+      "Instant chewable acidity relief",
+      "Relieves gas & bloating",
+      "Convenient on-the-go pack"
+    ],
+    "ingredients": [
+      "Magnesium Hydroxide",
+      "Dried Aluminium Hydroxide",
+      "Simethicone"
+    ],
+    "dosage": "Chew 1–2 tablets after meals and at bedtime.",
+    "usage": "Chew thoroughly before swallowing. Do not exceed 8 tablets daily.",
+    "sideEffects": [
+      "Mild laxative effect (rare)"
+    ],
+    "manufacturer": "Pfizer Ltd, Mumbai",
+    "countryOfOrigin": "India",
+    "tags": [],
+    "image": {
+      "icon": "pill",
+      "tint": "mint"
+    }
+  },
+  {
+    "id": "med-026",
+    "slug": "neurobion-forte-tablet",
+    "name": "Neurobion Forte Tablet",
+    "brand": "P&G Health",
+    "category": "otc-medicines",
+    "subcategory": "Multivitamins",
+    "store": "medicines",
+    "price": 38,
+    "mrp": 42,
+    "rating": 4.6,
+    "reviewCount": 8540,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 320,
+    "packSize": "Strip of 30 tablets",
+    "description": "Neurobion Forte is a vitamin B-complex supplement that supports nerve health, helping relieve tingling, numbness and weakness caused by B-vitamin deficiency.",
+    "highlights": [
+      "Complete vitamin B-complex formula",
+      "Supports healthy nerve function",
+      "Relieves tingling & numbness"
+    ],
+    "ingredients": [
+      "Vitamin B1",
+      "Vitamin B2",
+      "Vitamin B6",
+      "Vitamin B12",
+      "Calcium Pantothenate",
+      "Nicotinamide"
+    ],
+    "dosage": "1 tablet daily after food, or as directed by your physician.",
+    "usage": "Take consistently for at least 8–12 weeks for noticeable benefit.",
+    "sideEffects": [
+      "None when taken as directed"
+    ],
+    "manufacturer": "Procter & Gamble Health Ltd, Mumbai",
+    "countryOfOrigin": "India",
+    "tags": [],
+    "image": {
+      "icon": "supplement",
+      "tint": "rose"
+    },
+    "healthConcerns": [
+      "senior-care",
+      "diabetes"
+    ]
+  },
+  {
+    "id": "wel-001",
+    "slug": "hk-vitals-multivitamin",
+    "name": "HK Vitals Multivitamin",
+    "brand": "HealthKart",
+    "category": "vitamins-supplements",
+    "subcategory": "Vitamins",
+    "store": "wellness",
+    "price": 379,
+    "mrp": 549,
+    "rating": 4.5,
+    "reviewCount": 6743,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 220,
+    "packSize": "Bottle of 90 tablets",
+    "description": "HK Vitals Multivitamin delivers 23 essential nutrients with zinc and vitamin C for daily immunity, energy and overall wellness — formulated for Indian dietary needs.",
+    "highlights": [
+      "23 vitamins, minerals & amino acids",
+      "Supports immunity, energy & stamina",
+      "90-day supply in one bottle"
+    ],
+    "ingredients": [
+      "Vitamin A–E complex",
+      "Zinc",
+      "Magnesium",
+      "Taurine",
+      "Ginseng Extract"
+    ],
+    "dosage": "1 tablet daily after breakfast.",
+    "usage": "Take consistently with food for best absorption.",
+    "manufacturer": "Bright Lifecare Pvt Ltd, Gurugram",
+    "countryOfOrigin": "India",
+    "tags": [
+      "bestseller"
+    ],
+    "image": {
+      "icon": "supplement",
+      "tint": "blue"
+    },
+    "healthConcerns": [
+      "immunity"
+    ],
+    "frequentlyBoughtWith": [
+      "limcee-vitamin-c",
+      "hk-vitals-fish-oil"
+    ]
+  },
+  {
+    "id": "wel-002",
+    "slug": "muscleblaze-whey-gold-1kg",
+    "name": "MuscleBlaze Biozyme Whey Gold",
+    "brand": "MuscleBlaze",
+    "category": "wellness-products",
+    "subcategory": "Protein Powders",
+    "store": "wellness",
+    "price": 2799,
+    "mrp": 3899,
+    "rating": 4.6,
+    "reviewCount": 12890,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 95,
+    "packSize": "Jar of 1 kg — Rich Chocolate",
+    "description": "MuscleBlaze Biozyme Whey Gold is a clinically tested whey isolate with enhanced absorption formula, delivering 25g protein per scoop for muscle recovery and growth.",
+    "highlights": [
+      "25 g protein & 5.5 g BCAA per scoop",
+      "Clinically tested on Indian bodies",
+      "Enhanced absorption Biozyme formula"
+    ],
+    "ingredients": [
+      "Whey Protein Isolate",
+      "Digestive Enzyme Blend",
+      "Cocoa Powder"
+    ],
+    "usage": "Mix 1 scoop with 180–200 ml water or milk post-workout.",
+    "manufacturer": "Bright Lifecare Pvt Ltd, Gurugram",
+    "countryOfOrigin": "India",
+    "tags": [
+      "bestseller",
+      "trending"
+    ],
+    "image": {
+      "icon": "protein",
+      "tint": "violet"
+    },
+    "healthConcerns": [
+      "weight-management",
+      "mens-health"
+    ],
+    "frequentlyBoughtWith": [
+      "muscleblaze-creatine",
+      "boldfit-shaker"
+    ]
+  },
+  {
+    "id": "wel-003",
+    "slug": "on-gold-standard-whey",
+    "name": "ON Gold Standard 100% Whey",
+    "brand": "Optimum Nutrition",
+    "category": "wellness-products",
+    "subcategory": "Protein Powders",
+    "store": "wellness",
+    "price": 3499,
+    "mrp": 4299,
+    "rating": 4.7,
+    "reviewCount": 9320,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 60,
+    "packSize": "Jar of 907 g — Double Rich Chocolate",
+    "description": "The world's best-selling whey protein with 24g of blended whey isolates per serving, ideal for building lean muscle and faster recovery.",
+    "highlights": [
+      "24 g protein with whey isolates as primary source",
+      "5.5 g naturally occurring BCAAs",
+      "World's #1 selling whey protein"
+    ],
+    "ingredients": [
+      "Whey Protein Isolate",
+      "Whey Protein Concentrate",
+      "Cocoa"
+    ],
+    "usage": "Mix 1 scoop in 240 ml cold water or milk after exercise.",
+    "manufacturer": "Glanbia Performance Nutrition (imported)",
+    "countryOfOrigin": "USA",
+    "tags": [
+      "trending"
+    ],
+    "image": {
+      "icon": "protein",
+      "tint": "amber"
+    },
+    "healthConcerns": [
+      "weight-management",
+      "mens-health"
+    ]
+  },
+  {
+    "id": "wel-004",
+    "slug": "dabur-chyawanprash-1kg",
+    "name": "Dabur Chyawanprash",
+    "brand": "Dabur",
+    "category": "ayurvedic",
+    "subcategory": "Ayurvedic Products",
+    "store": "wellness",
+    "price": 319,
+    "mrp": 365,
+    "rating": 4.7,
+    "reviewCount": 18230,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 310,
+    "packSize": "Jar of 1 kg",
+    "description": "Dabur Chyawanprash is a time-tested ayurvedic immunity builder with 40+ herbs including amla and ashwagandha, supporting strength and respiratory wellness for the whole family.",
+    "highlights": [
+      "3x immunity action, clinically tested",
+      "40+ ayurvedic herbs with Amla base",
+      "Suitable for all age groups"
+    ],
+    "ingredients": [
+      "Amla",
+      "Ashwagandha",
+      "Giloy",
+      "Pippali",
+      "Honey",
+      "40+ herbs"
+    ],
+    "dosage": "Adults: 1 teaspoon twice daily. Children: ½ teaspoon daily.",
+    "usage": "Take with warm milk or water, preferably in the morning and evening.",
+    "manufacturer": "Dabur India Ltd, Ghaziabad",
+    "countryOfOrigin": "India",
+    "tags": [
+      "bestseller"
+    ],
+    "image": {
+      "icon": "herb",
+      "tint": "amber"
+    },
+    "healthConcerns": [
+      "immunity",
+      "senior-care"
+    ],
+    "frequentlyBoughtWith": [
+      "patanjali-honey-500g",
+      "himalaya-ashwagandha"
+    ]
+  },
+  {
+    "id": "wel-005",
+    "slug": "himalaya-ashwagandha",
+    "name": "Himalaya Ashvagandha Tablets",
+    "brand": "Himalaya",
+    "category": "ayurvedic",
+    "subcategory": "Ayurvedic Products",
+    "store": "wellness",
+    "price": 165,
+    "mrp": 190,
+    "rating": 4.5,
+    "reviewCount": 7689,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 260,
+    "packSize": "Bottle of 60 tablets",
+    "description": "Himalaya Ashvagandha is a pure-herb adaptogen that helps the body manage stress, supports restful sleep and improves energy and vitality.",
+    "highlights": [
+      "Pure ashwagandha root extract",
+      "Reduces stress & fatigue",
+      "Promotes restful sleep"
+    ],
+    "ingredients": [
+      "Ashwagandha Root Extract 250 mg"
+    ],
+    "dosage": "1 tablet twice daily after meals.",
+    "usage": "Use consistently for 8–12 weeks for best results.",
+    "manufacturer": "Himalaya Wellness Company, Bengaluru",
+    "countryOfOrigin": "India",
+    "tags": [
+      "trending"
+    ],
+    "image": {
+      "icon": "herb",
+      "tint": "green"
+    },
+    "healthConcerns": [
+      "immunity",
+      "mens-health"
+    ]
+  },
+  {
+    "id": "wel-006",
+    "slug": "baidyanath-triphala-churna",
+    "name": "Baidyanath Triphala Churna",
+    "brand": "Baidyanath",
+    "category": "ayurvedic",
+    "subcategory": "Ayurvedic Products",
+    "store": "wellness",
+    "price": 110,
+    "mrp": 125,
+    "rating": 4.4,
+    "reviewCount": 4521,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 190,
+    "packSize": "Pack of 120 g",
+    "description": "A classical ayurvedic blend of amla, haritaki and bibhitaki that gently supports digestion, regularity and detoxification.",
+    "highlights": [
+      "Classical 3-fruit ayurvedic formula",
+      "Supports digestion & gut health",
+      "Gentle daily detox"
+    ],
+    "ingredients": [
+      "Amla",
+      "Haritaki",
+      "Bibhitaki"
+    ],
+    "dosage": "1 teaspoon with warm water at bedtime.",
+    "usage": "Mix with lukewarm water or honey before sleep.",
+    "manufacturer": "Shree Baidyanath Ayurved Bhawan, Kolkata",
+    "countryOfOrigin": "India",
+    "tags": [],
+    "image": {
+      "icon": "powder",
+      "tint": "green"
+    }
+  },
+  {
+    "id": "wel-007",
+    "slug": "cetaphil-gentle-cleanser",
+    "name": "Cetaphil Gentle Skin Cleanser",
+    "brand": "Galderma",
+    "category": "personal-care",
+    "subcategory": "Skin Care",
+    "store": "wellness",
+    "price": 689,
+    "mrp": 766,
+    "rating": 4.7,
+    "reviewCount": 11234,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 140,
+    "packSize": "Bottle of 250 ml",
+    "description": "Cetaphil Gentle Skin Cleanser is a dermatologist-recommended, soap-free cleanser that hydrates while it cleans — ideal for sensitive and dry skin.",
+    "highlights": [
+      "Dermatologist recommended worldwide",
+      "Soap-free, fragrance-free formula",
+      "Maintains skin's natural pH"
+    ],
+    "ingredients": [
+      "Glycerin",
+      "Cetyl Alcohol",
+      "Panthenol",
+      "Niacinamide"
+    ],
+    "usage": "Apply to wet skin, massage gently and rinse. Use twice daily.",
+    "manufacturer": "Galderma India Pvt Ltd, Mumbai",
+    "countryOfOrigin": "India",
+    "tags": [
+      "bestseller"
+    ],
+    "image": {
+      "icon": "drops",
+      "tint": "sky"
+    },
+    "healthConcerns": [
+      "skin-care"
+    ],
+    "frequentlyBoughtWith": [
+      "minimalist-niacinamide-serum"
+    ]
+  },
+  {
+    "id": "wel-008",
+    "slug": "minimalist-niacinamide-serum",
+    "name": "Minimalist 10% Niacinamide Serum",
+    "brand": "Minimalist",
+    "category": "personal-care",
+    "subcategory": "Skin Care",
+    "store": "wellness",
+    "price": 549,
+    "mrp": 599,
+    "rating": 4.5,
+    "reviewCount": 8765,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 175,
+    "packSize": "Bottle of 30 ml",
+    "description": "A potent 10% niacinamide serum that reduces acne marks, controls oil and evens skin tone — fragrance-free and non-comedogenic.",
+    "highlights": [
+      "Reduces acne marks & blemishes",
+      "Controls excess oil production",
+      "Fragrance-free, 100% transparent formula"
+    ],
+    "ingredients": [
+      "Niacinamide 10%",
+      "Zinc PCA 1%",
+      "Hyaluronic Acid"
+    ],
+    "usage": "Apply 3–4 drops on cleansed face in the evening. Follow with moisturiser.",
+    "manufacturer": "Uprising Science Pvt Ltd, Jaipur",
+    "countryOfOrigin": "India",
+    "tags": [
+      "trending"
+    ],
+    "image": {
+      "icon": "drops",
+      "tint": "mint"
+    },
+    "healthConcerns": [
+      "skin-care"
+    ]
+  },
+  {
+    "id": "wel-009",
+    "slug": "mamaearth-vitamin-c-facewash",
+    "name": "Mamaearth Vitamin C Face Wash",
+    "brand": "Mamaearth",
+    "category": "personal-care",
+    "subcategory": "Skin Care",
+    "store": "wellness",
+    "price": 249,
+    "mrp": 299,
+    "rating": 4.4,
+    "reviewCount": 9876,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 230,
+    "packSize": "Tube of 100 ml",
+    "description": "A gentle daily face wash with vitamin C and turmeric that brightens dull skin and fights free-radical damage — free of sulphates and parabens.",
+    "highlights": [
+      "Brightens & evens skin tone",
+      "With Vitamin C & Turmeric",
+      "No sulphates, parabens or mineral oil"
+    ],
+    "ingredients": [
+      "Vitamin C",
+      "Turmeric Extract",
+      "Aloe Vera"
+    ],
+    "usage": "Massage onto wet face for 30 seconds, rinse. Use twice daily.",
+    "manufacturer": "Honasa Consumer Ltd, Gurugram",
+    "countryOfOrigin": "India",
+    "tags": [],
+    "image": {
+      "icon": "sun",
+      "tint": "amber"
+    },
+    "healthConcerns": [
+      "skin-care"
+    ]
+  },
+  {
+    "id": "wel-010",
+    "slug": "wow-onion-hair-oil",
+    "name": "WOW Onion Black Seed Hair Oil",
+    "brand": "WOW Skin Science",
+    "category": "personal-care",
+    "subcategory": "Hair Care",
+    "store": "wellness",
+    "price": 349,
+    "mrp": 499,
+    "rating": 4.3,
+    "reviewCount": 13456,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 200,
+    "packSize": "Bottle of 200 ml",
+    "description": "Cold-pressed onion black seed oil blend that strengthens roots, controls hair fall and boosts shine — with no mineral oil or silicones.",
+    "highlights": [
+      "Reduces hair fall & breakage",
+      "Cold-pressed nutrient-rich oils",
+      "No mineral oil, silicones or parabens"
+    ],
+    "ingredients": [
+      "Onion Seed Oil",
+      "Black Seed Oil",
+      "Almond Oil",
+      "Castor Oil",
+      "Jojoba Oil"
+    ],
+    "usage": "Massage into scalp 2–3 times weekly. Leave for at least 1 hour before washing.",
+    "manufacturer": "Body Cupid Pvt Ltd, Bengaluru",
+    "countryOfOrigin": "India",
+    "tags": [],
+    "image": {
+      "icon": "drops",
+      "tint": "violet"
+    },
+    "healthConcerns": [
+      "skin-care"
+    ]
+  },
+  {
+    "id": "wel-011",
+    "slug": "dettol-handwash-refill",
+    "name": "Dettol Liquid Handwash Refill",
+    "brand": "Dettol",
+    "category": "personal-care",
+    "subcategory": "Personal Hygiene",
+    "store": "wellness",
+    "price": 99,
+    "mrp": 120,
+    "rating": 4.7,
+    "reviewCount": 16540,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 420,
+    "packSize": "Refill pouch of 750 ml",
+    "description": "Dettol's trusted germ-protection handwash removes 99.9% of illness-causing germs while keeping hands soft with added moisturisers.",
+    "highlights": [
+      "Kills 99.9% germs",
+      "pH-balanced & gentle on skin",
+      "India's #1 trusted hygiene brand"
+    ],
+    "ingredients": [
+      "Chloroxylenol",
+      "Glycerin",
+      "Moisturisers"
+    ],
+    "usage": "Apply a coin-sized amount on wet hands, lather for 20 seconds, rinse.",
+    "manufacturer": "Reckitt Benckiser (India) Ltd, Gurugram",
+    "countryOfOrigin": "India",
+    "tags": [
+      "bestseller"
+    ],
+    "image": {
+      "icon": "hygiene",
+      "tint": "green"
+    }
+  },
+  {
+    "id": "wel-012",
+    "slug": "whisper-ultra-clean-xl-30",
+    "name": "Whisper Ultra Clean XL+ Pads",
+    "brand": "Whisper",
+    "category": "personal-care",
+    "subcategory": "Personal Hygiene",
+    "store": "wellness",
+    "price": 299,
+    "mrp": 360,
+    "rating": 4.6,
+    "reviewCount": 8765,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 260,
+    "packSize": "Pack of 30 pads",
+    "description": "Whisper Ultra Clean with herbal oil provides up to 100% leakage protection for 12 hours with a soft, dry top layer.",
+    "highlights": [
+      "12-hour leakage protection",
+      "40% longer with wider back",
+      "Soft top sheet with herbal oil"
+    ],
+    "usage": "Change every 6–8 hours for best hygiene.",
+    "manufacturer": "Procter & Gamble Hygiene & Health Care Ltd, Mumbai",
+    "countryOfOrigin": "India",
+    "tags": [],
+    "image": {
+      "icon": "hygiene",
+      "tint": "rose"
+    },
+    "healthConcerns": [
+      "womens-health"
+    ]
+  },
+  {
+    "id": "wel-013",
+    "slug": "durex-extra-time-condoms",
+    "name": "Durex Extra Time Condoms",
+    "brand": "Durex",
+    "category": "wellness-products",
+    "subcategory": "Sexual Wellness",
+    "store": "wellness",
+    "price": 240,
+    "mrp": 300,
+    "rating": 4.5,
+    "reviewCount": 5432,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 180,
+    "packSize": "Pack of 10 condoms",
+    "description": "Durex Extra Time condoms with benzocaine 5% help extend intimacy, made from premium natural rubber latex with 100% electronic testing.",
+    "highlights": [
+      "Climax-delay lubricant",
+      "100% electronically tested",
+      "Discreet packaging & delivery"
+    ],
+    "usage": "Read the leaflet carefully before use. Single use only.",
+    "manufacturer": "Reckitt Benckiser (India) Ltd, Gurugram",
+    "countryOfOrigin": "India",
+    "tags": [],
+    "image": {
+      "icon": "shield",
+      "tint": "violet"
+    },
+    "healthConcerns": [
+      "mens-health"
+    ]
+  },
+  {
+    "id": "wel-014",
+    "slug": "wow-apple-cider-vinegar",
+    "name": "WOW Apple Cider Vinegar",
+    "brand": "WOW Skin Science",
+    "category": "wellness-products",
+    "subcategory": "Weight Management",
+    "store": "wellness",
+    "price": 449,
+    "mrp": 599,
+    "rating": 4.3,
+    "reviewCount": 10234,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 150,
+    "packSize": "Bottle of 750 ml",
+    "description": "Raw, unfiltered apple cider vinegar with the 'mother', supporting metabolism, digestion and weight management goals.",
+    "highlights": [
+      "Raw, unfiltered with the 'Mother'",
+      "Supports metabolism & digestion",
+      "No added sugar or preservatives"
+    ],
+    "ingredients": [
+      "Fermented Himalayan Apple Juice"
+    ],
+    "usage": "Dilute 1–2 teaspoons in a glass of warm water before meals.",
+    "manufacturer": "Body Cupid Pvt Ltd, Bengaluru",
+    "countryOfOrigin": "India",
+    "tags": [],
+    "image": {
+      "icon": "nutrition",
+      "tint": "amber"
+    },
+    "healthConcerns": [
+      "weight-management"
+    ]
+  },
+  {
+    "id": "wel-015",
+    "slug": "oziva-protein-herbs-women",
+    "name": "OZiva Protein & Herbs for Women",
+    "brand": "OZiva",
+    "category": "wellness-products",
+    "subcategory": "Protein Powders",
+    "store": "wellness",
+    "price": 1599,
+    "mrp": 1899,
+    "rating": 4.4,
+    "reviewCount": 6234,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 85,
+    "packSize": "Jar of 500 g — Chocolate",
+    "description": "A clean, plant-based protein with ayurvedic herbs like shatavari and giloy, designed for women's daily nutrition, hormonal balance and toned fitness.",
+    "highlights": [
+      "23 g plant protein per serving",
+      "With Shatavari, Giloy & Tulsi",
+      "Soy-free, no added sugar"
+    ],
+    "ingredients": [
+      "Pea Protein",
+      "Brown Rice Protein",
+      "Shatavari",
+      "Giloy",
+      "Tulsi"
+    ],
+    "usage": "Blend 1 scoop with 200 ml water or milk, once daily.",
+    "manufacturer": "Zywie Ventures Pvt Ltd, Mumbai",
+    "countryOfOrigin": "India",
+    "tags": [],
+    "image": {
+      "icon": "protein",
+      "tint": "rose"
+    },
+    "healthConcerns": [
+      "womens-health",
+      "weight-management"
+    ]
+  },
+  {
+    "id": "wel-016",
+    "slug": "limcee-vitamin-c",
+    "name": "Limcee Vitamin C Chewable",
+    "brand": "Abbott",
+    "category": "vitamins-supplements",
+    "subcategory": "Vitamins",
+    "store": "wellness",
+    "price": 23,
+    "mrp": 26,
+    "rating": 4.6,
+    "reviewCount": 7654,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 480,
+    "packSize": "Strip of 15 tablets — Orange",
+    "description": "Limcee chewable vitamin C tablets support immunity, collagen formation and faster recovery — a tangy daily immunity habit.",
+    "highlights": [
+      "500 mg Vitamin C per tablet",
+      "Boosts immunity & skin health",
+      "Tasty orange chewable"
+    ],
+    "ingredients": [
+      "Ascorbic Acid 500 mg"
+    ],
+    "dosage": "1 tablet daily after a meal.",
+    "usage": "Chew thoroughly before swallowing.",
+    "manufacturer": "Abbott India Ltd, Mumbai",
+    "countryOfOrigin": "India",
+    "tags": [
+      "bestseller"
+    ],
+    "image": {
+      "icon": "sun",
+      "tint": "amber"
+    },
+    "healthConcerns": [
+      "immunity",
+      "skin-care"
+    ]
+  },
+  {
+    "id": "wel-017",
+    "slug": "hk-vitals-fish-oil",
+    "name": "HK Vitals Fish Oil 1000mg",
+    "brand": "HealthKart",
+    "category": "vitamins-supplements",
+    "subcategory": "Supplements",
+    "store": "wellness",
+    "price": 549,
+    "mrp": 899,
+    "rating": 4.5,
+    "reviewCount": 5430,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 130,
+    "packSize": "Bottle of 60 softgels",
+    "description": "Double-strength omega-3 fish oil with 360 mg EPA and 240 mg DHA per serving for heart, brain, joint and eye health.",
+    "highlights": [
+      "1000 mg Omega-3 per softgel",
+      "Supports heart & brain health",
+      "Molecularly distilled, no fishy burps"
+    ],
+    "ingredients": [
+      "Fish Oil",
+      "EPA 360 mg",
+      "DHA 240 mg"
+    ],
+    "dosage": "1 softgel daily after a meal.",
+    "usage": "Swallow whole with water after food.",
+    "manufacturer": "Bright Lifecare Pvt Ltd, Gurugram",
+    "countryOfOrigin": "India",
+    "tags": [],
+    "image": {
+      "icon": "supplement",
+      "tint": "sky"
+    },
+    "healthConcerns": [
+      "heart-care",
+      "senior-care"
+    ]
+  },
+  {
+    "id": "wel-018",
+    "slug": "supradyn-daily-tablet",
+    "name": "Supradyn Daily Multivitamin",
+    "brand": "Bayer",
+    "category": "vitamins-supplements",
+    "subcategory": "Vitamins",
+    "store": "wellness",
+    "price": 47,
+    "mrp": 52,
+    "rating": 4.5,
+    "reviewCount": 6789,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 300,
+    "packSize": "Strip of 15 tablets",
+    "description": "Supradyn combines 12 vitamins and 11 minerals & trace elements to fight daily fatigue and keep energy levels high through busy days.",
+    "highlights": [
+      "12 vitamins + 11 minerals",
+      "Fights tiredness & fatigue",
+      "Trusted by doctors for 50+ years"
+    ],
+    "ingredients": [
+      "B-Complex Vitamins",
+      "Vitamin C",
+      "Iron",
+      "Zinc",
+      "Copper",
+      "Magnesium"
+    ],
+    "dosage": "1 tablet daily after breakfast.",
+    "usage": "Swallow with water after food.",
+    "manufacturer": "Bayer Pharmaceuticals Pvt Ltd, Thane",
+    "countryOfOrigin": "India",
+    "tags": [],
+    "image": {
+      "icon": "supplement",
+      "tint": "amber"
+    },
+    "healthConcerns": [
+      "immunity"
+    ]
+  },
+  {
+    "id": "wel-019",
+    "slug": "revital-h-men",
+    "name": "Revital H for Men",
+    "brand": "Sun Pharma",
+    "category": "vitamins-supplements",
+    "subcategory": "Supplements",
+    "store": "wellness",
+    "price": 320,
+    "mrp": 355,
+    "rating": 4.5,
+    "reviewCount": 8123,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 210,
+    "packSize": "Bottle of 30 capsules",
+    "description": "Revital H for Men is a daily health supplement with natural ginseng, vitamins and minerals that helps maintain energy, stamina and immunity.",
+    "highlights": [
+      "With natural Ginseng extract",
+      "Supports all-day energy & stamina",
+      "Balanced for Indian male nutrition"
+    ],
+    "ingredients": [
+      "Ginseng",
+      "10 Vitamins",
+      "9 Minerals"
+    ],
+    "dosage": "1 capsule daily after breakfast.",
+    "usage": "Take regularly for sustained benefits.",
+    "manufacturer": "Sun Pharmaceutical Industries Ltd, Mumbai",
+    "countryOfOrigin": "India",
+    "tags": [],
+    "image": {
+      "icon": "supplement",
+      "tint": "teal"
+    },
+    "healthConcerns": [
+      "mens-health",
+      "immunity"
+    ]
+  },
+  {
+    "id": "wel-020",
+    "slug": "patanjali-honey-500g",
+    "name": "Patanjali Pure Honey",
+    "brand": "Patanjali",
+    "category": "ayurvedic",
+    "subcategory": "Ayurvedic Products",
+    "store": "wellness",
+    "price": 165,
+    "mrp": 185,
+    "rating": 4.5,
+    "reviewCount": 14320,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 350,
+    "packSize": "Bottle of 500 g",
+    "description": "Pure, natural multi-floral honey — a wholesome substitute for sugar that supports immunity, digestion and weight management.",
+    "highlights": [
+      "100% pure & natural honey",
+      "NMR tested for purity",
+      "Great sugar substitute"
+    ],
+    "ingredients": [
+      "Pure Honey"
+    ],
+    "usage": "Take 1–2 teaspoons with warm water in the morning, or as a sweetener.",
+    "manufacturer": "Patanjali Ayurved Ltd, Haridwar",
+    "countryOfOrigin": "India",
+    "tags": [],
+    "image": {
+      "icon": "nutrition",
+      "tint": "amber"
+    },
+    "healthConcerns": [
+      "immunity",
+      "weight-management"
+    ]
+  },
+  {
+    "id": "wel-021",
+    "slug": "muscleblaze-creatine",
+    "name": "MuscleBlaze Creatine Monohydrate",
+    "brand": "MuscleBlaze",
+    "category": "fitness-gadgets",
+    "subcategory": "Supplements",
+    "store": "wellness",
+    "price": 649,
+    "mrp": 899,
+    "rating": 4.6,
+    "reviewCount": 7890,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 120,
+    "packSize": "Jar of 250 g — Unflavoured",
+    "description": "Micronised creatine monohydrate that boosts strength, power output and muscle recovery — lab-tested for purity.",
+    "highlights": [
+      "3 g pure creatine per serving",
+      "Micronised for better mixability",
+      "Labdoor certified purity"
+    ],
+    "ingredients": [
+      "Creatine Monohydrate"
+    ],
+    "usage": "Mix 1 scoop (3 g) with water or juice, daily — ideally post-workout.",
+    "manufacturer": "Bright Lifecare Pvt Ltd, Gurugram",
+    "countryOfOrigin": "India",
+    "tags": [],
+    "image": {
+      "icon": "protein",
+      "tint": "blue"
+    },
+    "healthConcerns": [
+      "mens-health",
+      "weight-management"
+    ]
+  },
+  {
+    "id": "wel-022",
+    "slug": "protinex-diabetes-care",
+    "name": "Protinex Diabetes Care",
+    "brand": "Danone",
+    "category": "diabetes-care",
+    "subcategory": "Diabetic Nutrition",
+    "store": "wellness",
+    "price": 649,
+    "mrp": 720,
+    "rating": 4.4,
+    "reviewCount": 4567,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 110,
+    "packSize": "Jar of 400 g — Vanilla",
+    "description": "A specialised nutrition drink for people with diabetes, with high protein, fibre and a low glycaemic index to help manage blood sugar and muscle health.",
+    "highlights": [
+      "Low GI — steady glucose release",
+      "High protein & fibre formula",
+      "No added sugar"
+    ],
+    "ingredients": [
+      "Soy Protein",
+      "Fibre Blend",
+      "27 Vital Nutrients"
+    ],
+    "usage": "Mix 2 scoops in 200 ml water or toned milk, once daily.",
+    "manufacturer": "Nutricia International Pvt Ltd, Delhi",
+    "countryOfOrigin": "India",
+    "tags": [],
+    "image": {
+      "icon": "glucose",
+      "tint": "sky"
+    },
+    "healthConcerns": [
+      "diabetes",
+      "senior-care"
+    ],
+    "frequentlyBoughtWith": [
+      "sugar-free-gold-500",
+      "accu-chek-active-strips-50"
+    ]
+  },
+  {
+    "id": "wel-023",
+    "slug": "sugar-free-gold-500",
+    "name": "Sugar Free Gold Pellets",
+    "brand": "Zydus Wellness",
+    "category": "diabetes-care",
+    "subcategory": "Sugar Substitutes",
+    "store": "wellness",
+    "price": 245,
+    "mrp": 270,
+    "rating": 4.5,
+    "reviewCount": 6754,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 240,
+    "packSize": "Pack of 500 pellets",
+    "description": "India's most trusted sugar substitute made from aspartame — sweetness of sugar with zero calories, ideal for diabetics and the calorie-conscious.",
+    "highlights": [
+      "Zero calories per pellet",
+      "1 pellet = 1 teaspoon sugar",
+      "India's #1 sweetener brand"
+    ],
+    "ingredients": [
+      "Aspartame"
+    ],
+    "usage": "Add 1 pellet to tea or coffee in place of 1 teaspoon of sugar.",
+    "manufacturer": "Zydus Wellness Ltd, Ahmedabad",
+    "countryOfOrigin": "India",
+    "tags": [],
+    "image": {
+      "icon": "nutrition",
+      "tint": "mint"
+    },
+    "healthConcerns": [
+      "diabetes",
+      "weight-management"
+    ]
+  },
+  {
+    "id": "wel-024",
+    "slug": "pampers-active-baby-l",
+    "name": "Pampers Active Baby Diapers — L",
+    "brand": "Pampers",
+    "category": "baby-care",
+    "subcategory": "Baby Care",
+    "store": "wellness",
+    "price": 899,
+    "mrp": 1099,
+    "rating": 4.7,
+    "reviewCount": 12340,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 160,
+    "packSize": "Pack of 50 diapers (9–14 kg)",
+    "description": "Pampers Active Baby diapers with 5-star skin protection keep your baby's skin dry and healthy for up to 12 hours with breathable softness.",
+    "highlights": [
+      "Up to 12-hour dryness",
+      "5-star skin protection with lotion",
+      "Soft, breathable waistband"
+    ],
+    "usage": "Change every 4–6 hours or when soiled.",
+    "manufacturer": "Procter & Gamble Hygiene & Health Care Ltd, Mumbai",
+    "countryOfOrigin": "India",
+    "tags": [
+      "bestseller"
+    ],
+    "image": {
+      "icon": "baby",
+      "tint": "sky"
+    },
+    "frequentlyBoughtWith": [
+      "himalaya-baby-lotion",
+      "cerelac-wheat-apple"
+    ]
+  },
+  {
+    "id": "wel-025",
+    "slug": "himalaya-baby-lotion",
+    "name": "Himalaya Baby Lotion",
+    "brand": "Himalaya",
+    "category": "baby-care",
+    "subcategory": "Baby Care",
+    "store": "wellness",
+    "price": 199,
+    "mrp": 230,
+    "rating": 4.6,
+    "reviewCount": 8970,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 220,
+    "packSize": "Bottle of 400 ml",
+    "description": "A gentle daily moisturiser for baby's delicate skin, enriched with olive oil and almond oil for all-day nourishment.",
+    "highlights": [
+      "Clinically tested for mildness",
+      "With olive & almond oil",
+      "No parabens or mineral oil"
+    ],
+    "ingredients": [
+      "Olive Oil",
+      "Almond Oil",
+      "Licorice"
+    ],
+    "usage": "Apply gently all over baby's body after bath and before bedtime.",
+    "manufacturer": "Himalaya Wellness Company, Bengaluru",
+    "countryOfOrigin": "India",
+    "tags": [],
+    "image": {
+      "icon": "baby",
+      "tint": "rose"
+    }
+  },
+  {
+    "id": "wel-026",
+    "slug": "cerelac-wheat-apple",
+    "name": "Nestlé Cerelac Wheat Apple",
+    "brand": "Nestlé",
+    "category": "baby-care",
+    "subcategory": "Baby Food",
+    "store": "wellness",
+    "price": 315,
+    "mrp": 335,
+    "rating": 4.7,
+    "reviewCount": 10980,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 190,
+    "packSize": "Box of 300 g (8–12 months)",
+    "description": "Iron-fortified baby cereal with the goodness of wheat and real apple, providing 17 essential nutrients for growing babies from 8 months.",
+    "highlights": [
+      "17 vital nutrients with iron",
+      "Made with real fruit",
+      "No added preservatives"
+    ],
+    "ingredients": [
+      "Wheat Flour",
+      "Apple Pulp",
+      "Milk Solids",
+      "Vitamins & Minerals"
+    ],
+    "usage": "Mix 25 g with 100 ml lukewarm water or milk. Use within 4 weeks of opening.",
+    "manufacturer": "Nestlé India Ltd, Gurugram",
+    "countryOfOrigin": "India",
+    "tags": [],
+    "image": {
+      "icon": "baby",
+      "tint": "amber"
+    }
+  },
+  {
+    "id": "dev-001",
+    "slug": "omron-hem-7120-bp-monitor",
+    "name": "Omron HEM-7120 BP Monitor",
+    "brand": "Omron",
+    "category": "health-devices",
+    "subcategory": "BP Monitors",
+    "store": "devices",
+    "price": 1690,
+    "mrp": 2200,
+    "rating": 4.6,
+    "reviewCount": 15670,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 85,
+    "packSize": "1 unit with cuff (22–32 cm)",
+    "description": "Omron HEM-7120 is a fully automatic digital blood pressure monitor with IntelliSense technology for accurate, comfortable upper-arm measurements at home.",
+    "highlights": [
+      "IntelliSense cuff inflation for comfort",
+      "Hypertension & irregular heartbeat indicator",
+      "Clinically validated accuracy"
+    ],
+    "usage": "Sit with your back supported, rest your arm on a table at heart level, wrap the cuff and press Start. Measure at the same times daily.",
+    "manufacturer": "Omron Healthcare India Pvt Ltd",
+    "countryOfOrigin": "Vietnam",
+    "specifications": [
+      {
+        "label": "Measurement Method",
+        "value": "Oscillometric"
+      },
+      {
+        "label": "Pressure Range",
+        "value": "0–299 mmHg"
+      },
+      {
+        "label": "Accuracy",
+        "value": "±3 mmHg / ±5% pulse"
+      },
+      {
+        "label": "Memory",
+        "value": "Last reading recall"
+      },
+      {
+        "label": "Cuff Size",
+        "value": "22–32 cm"
+      },
+      {
+        "label": "Power",
+        "value": "4× AA batteries"
+      }
+    ],
+    "warranty": "5-year manufacturer warranty on monitor",
+    "tags": [
+      "bestseller"
+    ],
+    "image": {
+      "icon": "bp",
+      "tint": "blue"
+    },
+    "healthConcerns": [
+      "heart-care",
+      "senior-care"
+    ],
+    "frequentlyBoughtWith": [
+      "telma-40-tablet",
+      "beurer-po30-oximeter"
+    ]
+  },
+  {
+    "id": "dev-002",
+    "slug": "dr-trust-smart-bp-monitor",
+    "name": "Dr Trust Smart Talking BP Monitor",
+    "brand": "Dr Trust",
+    "category": "health-devices",
+    "subcategory": "BP Monitors",
+    "store": "devices",
+    "price": 1499,
+    "mrp": 2999,
+    "rating": 4.4,
+    "reviewCount": 9876,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 70,
+    "packSize": "1 unit with universal cuff",
+    "description": "A talking blood pressure monitor with a large backlit display, 120-reading memory for two users, and voice guidance in English and Hindi.",
+    "highlights": [
+      "Talks you through readings (English/Hindi)",
+      "3-color hypertension backlight indicator",
+      "2 users × 120 readings memory"
+    ],
+    "usage": "Wrap cuff 2 cm above the elbow, sit still and press Start.",
+    "manufacturer": "Nureca Ltd, Chandigarh",
+    "countryOfOrigin": "India",
+    "specifications": [
+      {
+        "label": "Display",
+        "value": "Large LCD with backlight"
+      },
+      {
+        "label": "Memory",
+        "value": "2 users × 120 readings"
+      },
+      {
+        "label": "Voice Guidance",
+        "value": "English & Hindi"
+      },
+      {
+        "label": "Power",
+        "value": "4× AAA batteries / USB"
+      }
+    ],
+    "warranty": "1-year warranty + lifetime calibration support",
+    "tags": [],
+    "image": {
+      "icon": "bp",
+      "tint": "teal"
+    },
+    "healthConcerns": [
+      "heart-care",
+      "senior-care"
+    ]
+  },
+  {
+    "id": "dev-003",
+    "slug": "accu-chek-active-glucometer",
+    "name": "Accu-Chek Active Glucometer Kit",
+    "brand": "Accu-Chek",
+    "category": "diabetes-care",
+    "subcategory": "Glucometers",
+    "store": "devices",
+    "price": 1149,
+    "mrp": 1499,
+    "rating": 4.6,
+    "reviewCount": 18230,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 110,
+    "packSize": "Meter + 10 strips + lancing device",
+    "description": "Accu-Chek Active is one of India's most trusted glucometers, giving accurate blood sugar results in about 5 seconds with a tiny 1–2 µL sample.",
+    "highlights": [
+      "Results in ~5 seconds",
+      "500-value memory with averages",
+      "Includes 10 free test strips"
+    ],
+    "usage": "Insert strip, prick fingertip with the lancing device, touch the drop to the strip edge and read the result.",
+    "manufacturer": "Roche Diabetes Care India Pvt Ltd",
+    "countryOfOrigin": "Germany",
+    "specifications": [
+      {
+        "label": "Sample Size",
+        "value": "1–2 µL"
+      },
+      {
+        "label": "Measuring Time",
+        "value": "~5 seconds"
+      },
+      {
+        "label": "Memory",
+        "value": "500 results"
+      },
+      {
+        "label": "Strip Ejection",
+        "value": "Hygienic auto-eject"
+      }
+    ],
+    "warranty": "Lifetime meter replacement warranty",
+    "tags": [
+      "bestseller"
+    ],
+    "image": {
+      "icon": "glucose",
+      "tint": "sky"
+    },
+    "healthConcerns": [
+      "diabetes"
+    ],
+    "frequentlyBoughtWith": [
+      "accu-chek-active-strips-50",
+      "protinex-diabetes-care"
+    ]
+  },
+  {
+    "id": "dev-004",
+    "slug": "accu-chek-active-strips-50",
+    "name": "Accu-Chek Active Test Strips",
+    "brand": "Accu-Chek",
+    "category": "diabetes-care",
+    "subcategory": "Glucometers",
+    "store": "devices",
+    "price": 899,
+    "mrp": 1049,
+    "rating": 4.7,
+    "reviewCount": 13450,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 200,
+    "packSize": "Box of 50 strips",
+    "description": "Genuine Accu-Chek Active test strips with wide dosing area and fast wicking for reliable home glucose monitoring.",
+    "highlights": [
+      "Compatible with Accu-Chek Active meters",
+      "Wide orange dosing area",
+      "Re-dosing possible within 10 seconds"
+    ],
+    "usage": "Use immediately after removing from the vial. Store cool and dry.",
+    "manufacturer": "Roche Diabetes Care India Pvt Ltd",
+    "countryOfOrigin": "Germany",
+    "specifications": [
+      {
+        "label": "Quantity",
+        "value": "50 strips"
+      },
+      {
+        "label": "Sample",
+        "value": "Capillary blood 1–2 µL"
+      }
+    ],
+    "tags": [],
+    "image": {
+      "icon": "glucose",
+      "tint": "mint"
+    },
+    "healthConcerns": [
+      "diabetes"
+    ],
+    "frequentlyBoughtWith": [
+      "accu-chek-active-glucometer"
+    ]
+  },
+  {
+    "id": "dev-005",
+    "slug": "omron-mc-720-thermometer",
+    "name": "Omron MC-720 Forehead Thermometer",
+    "brand": "Omron",
+    "category": "health-devices",
+    "subcategory": "Thermometers",
+    "store": "devices",
+    "price": 1850,
+    "mrp": 2390,
+    "rating": 4.5,
+    "reviewCount": 6540,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 60,
+    "packSize": "1 contactless unit",
+    "description": "A non-contact infrared thermometer that reads forehead temperature in 1 second — hygienic and ideal for sleeping children.",
+    "highlights": [
+      "1-second contactless reading",
+      "3-in-1: forehead, room & surface",
+      "25-reading memory"
+    ],
+    "usage": "Hold 1–3 cm from the centre of the forehead and press the button.",
+    "manufacturer": "Omron Healthcare India Pvt Ltd",
+    "countryOfOrigin": "China",
+    "specifications": [
+      {
+        "label": "Type",
+        "value": "Non-contact infrared"
+      },
+      {
+        "label": "Reading Time",
+        "value": "1 second"
+      },
+      {
+        "label": "Memory",
+        "value": "25 readings"
+      },
+      {
+        "label": "Range",
+        "value": "34.0–42.2 °C"
+      }
+    ],
+    "warranty": "1-year manufacturer warranty",
+    "tags": [],
+    "image": {
+      "icon": "thermometer",
+      "tint": "rose"
+    }
+  },
+  {
+    "id": "dev-006",
+    "slug": "dr-trust-digital-thermometer",
+    "name": "Dr Trust Flexible Digital Thermometer",
+    "brand": "Dr Trust",
+    "category": "health-devices",
+    "subcategory": "Thermometers",
+    "store": "devices",
+    "price": 199,
+    "mrp": 399,
+    "rating": 4.3,
+    "reviewCount": 8760,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 240,
+    "packSize": "1 unit with case",
+    "description": "A fast, waterproof digital thermometer with flexible gold tip for safe oral, underarm or rectal measurement for all ages.",
+    "highlights": [
+      "10-second fast reading",
+      "Flexible waterproof gold tip",
+      "Auto shut-off & fever beeper"
+    ],
+    "usage": "Place under the tongue or armpit until the beep, then read.",
+    "manufacturer": "Nureca Ltd, Chandigarh",
+    "countryOfOrigin": "India",
+    "specifications": [
+      {
+        "label": "Reading Time",
+        "value": "~10 seconds"
+      },
+      {
+        "label": "Waterproof",
+        "value": "Yes"
+      },
+      {
+        "label": "Memory",
+        "value": "Last reading"
+      }
+    ],
+    "warranty": "6-month warranty",
+    "tags": [],
+    "image": {
+      "icon": "thermometer",
+      "tint": "blue"
+    }
+  },
+  {
+    "id": "dev-007",
+    "slug": "beurer-po30-oximeter",
+    "name": "Beurer PO30 Pulse Oximeter",
+    "brand": "Beurer",
+    "category": "health-devices",
+    "subcategory": "Pulse Oximeters",
+    "store": "devices",
+    "price": 1299,
+    "mrp": 2299,
+    "rating": 4.5,
+    "reviewCount": 7890,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 90,
+    "packSize": "1 unit with lanyard & batteries",
+    "description": "German-engineered fingertip pulse oximeter for measuring oxygen saturation (SpO₂) and pulse rate, with a bright colour display and 4 viewing formats.",
+    "highlights": [
+      "Accurate SpO₂ & pulse measurement",
+      "Colour display with 4 orientations",
+      "German engineering, 5-year warranty"
+    ],
+    "usage": "Insert fingertip, press the button and keep the hand still for 8–10 seconds.",
+    "manufacturer": "Beurer GmbH (imported by Zillion Healthcare)",
+    "countryOfOrigin": "Germany",
+    "specifications": [
+      {
+        "label": "SpO₂ Range",
+        "value": "0–100%"
+      },
+      {
+        "label": "Pulse Range",
+        "value": "30–250 bpm"
+      },
+      {
+        "label": "Display",
+        "value": "Colour OLED, 4 formats"
+      },
+      {
+        "label": "Auto Shut-off",
+        "value": "Yes"
+      }
+    ],
+    "warranty": "5-year manufacturer warranty",
+    "tags": [
+      "trending"
+    ],
+    "image": {
+      "icon": "oximeter",
+      "tint": "violet"
+    },
+    "healthConcerns": [
+      "heart-care",
+      "senior-care"
+    ]
+  },
+  {
+    "id": "dev-008",
+    "slug": "noise-colorfit-pro-5",
+    "name": "Noise ColorFit Pro 5 Smartwatch",
+    "brand": "Noise",
+    "category": "fitness-gadgets",
+    "subcategory": "Smart Watches",
+    "store": "devices",
+    "price": 3499,
+    "mrp": 6999,
+    "rating": 4.4,
+    "reviewCount": 21340,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 75,
+    "packSize": "1 unit with magnetic charger",
+    "description": "A 1.85\" AMOLED smartwatch with Bluetooth calling, 24×7 heart-rate, SpO₂ and sleep tracking, and 100+ sports modes — your health companion on the wrist.",
+    "highlights": [
+      "1.85\" AMOLED always-on display",
+      "BT calling & health suite (HR, SpO₂, sleep)",
+      "Up to 7-day battery life"
+    ],
+    "usage": "Pair with the NoiseFit app to sync health data and notifications.",
+    "manufacturer": "Nexxbase Marketing Pvt Ltd, Gurugram",
+    "countryOfOrigin": "India",
+    "specifications": [
+      {
+        "label": "Display",
+        "value": "1.85\" AMOLED, 450 nits"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 7 days"
+      },
+      {
+        "label": "Sports Modes",
+        "value": "100+"
+      },
+      {
+        "label": "Water Resistance",
+        "value": "IP68"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Bluetooth 5.3 with calling"
+      }
+    ],
+    "warranty": "1-year manufacturer warranty",
+    "tags": [
+      "trending",
+      "bestseller"
+    ],
+    "image": {
+      "icon": "watch",
+      "tint": "blue"
+    },
+    "healthConcerns": [
+      "heart-care",
+      "weight-management"
+    ],
+    "frequentlyBoughtWith": [
+      "healthsense-weighing-scale"
+    ]
+  },
+  {
+    "id": "dev-009",
+    "slug": "boat-wave-call-2",
+    "name": "boAt Wave Call 2 Smartwatch",
+    "brand": "boAt",
+    "category": "fitness-gadgets",
+    "subcategory": "Smart Watches",
+    "store": "devices",
+    "price": 1799,
+    "mrp": 7990,
+    "rating": 4.3,
+    "reviewCount": 18760,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 100,
+    "packSize": "1 unit with charging cable",
+    "description": "boAt Wave Call 2 brings a 1.83\" HD display, advanced BT calling, heart rate & SpO₂ monitoring, and 700+ active modes at an unbeatable price.",
+    "highlights": [
+      "1.83\" HD display with 60Hz refresh",
+      "BT calling with dial pad",
+      "HR, SpO₂ & sleep monitoring"
+    ],
+    "usage": "Pair with the boAt Crest app for full health insights.",
+    "manufacturer": "Imagine Marketing Ltd, Mumbai",
+    "countryOfOrigin": "India",
+    "specifications": [
+      {
+        "label": "Display",
+        "value": "1.83\" HD"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 5 days"
+      },
+      {
+        "label": "Water Resistance",
+        "value": "IP67"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Bluetooth 5.3"
+      }
+    ],
+    "warranty": "1-year manufacturer warranty",
+    "tags": [],
+    "image": {
+      "icon": "watch",
+      "tint": "teal"
+    },
+    "healthConcerns": [
+      "weight-management"
+    ]
+  },
+  {
+    "id": "dev-010",
+    "slug": "mi-smart-band-8",
+    "name": "Xiaomi Smart Band 8",
+    "brand": "Xiaomi",
+    "category": "fitness-gadgets",
+    "subcategory": "Fitness Bands",
+    "store": "devices",
+    "price": 2999,
+    "mrp": 4499,
+    "rating": 4.5,
+    "reviewCount": 14230,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 80,
+    "packSize": "1 unit with magnetic charger",
+    "description": "The iconic fitness band, refined: 1.62\" AMOLED display, 150+ workout modes, continuous heart-rate and sleep tracking with 16-day battery life.",
+    "highlights": [
+      "1.62\" AMOLED, 60Hz display",
+      "150+ sports modes",
+      "Up to 16-day battery life"
+    ],
+    "usage": "Pair with the Mi Fitness app to track activity and sleep.",
+    "manufacturer": "Xiaomi Technology India Pvt Ltd",
+    "countryOfOrigin": "China",
+    "specifications": [
+      {
+        "label": "Display",
+        "value": "1.62\" AMOLED"
+      },
+      {
+        "label": "Battery",
+        "value": "Up to 16 days"
+      },
+      {
+        "label": "Water Resistance",
+        "value": "5 ATM"
+      },
+      {
+        "label": "Sensors",
+        "value": "HR, SpO₂, accelerometer"
+      }
+    ],
+    "warranty": "1-year manufacturer warranty",
+    "tags": [],
+    "image": {
+      "icon": "band",
+      "tint": "green"
+    },
+    "healthConcerns": [
+      "weight-management"
+    ]
+  },
+  {
+    "id": "dev-011",
+    "slug": "healthsense-weighing-scale",
+    "name": "HealthSense Ultra-Lite Weighing Scale",
+    "brand": "HealthSense",
+    "category": "health-devices",
+    "subcategory": "Weighing Scales",
+    "store": "devices",
+    "price": 1099,
+    "mrp": 1999,
+    "rating": 4.5,
+    "reviewCount": 11230,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 95,
+    "packSize": "1 unit with batteries",
+    "description": "A precise digital bathroom scale with 6mm tempered glass, large backlit LCD and step-on technology — accurate to 100 grams.",
+    "highlights": [
+      "High-precision German sensors",
+      "Step-on instant reading",
+      "Backlit LCD, 180 kg capacity"
+    ],
+    "usage": "Place on a hard, flat surface and step on barefoot for best accuracy.",
+    "manufacturer": "Jagmetic Lifestyle LLP, Bengaluru",
+    "countryOfOrigin": "India",
+    "specifications": [
+      {
+        "label": "Capacity",
+        "value": "180 kg"
+      },
+      {
+        "label": "Graduation",
+        "value": "100 g"
+      },
+      {
+        "label": "Platform",
+        "value": "6 mm tempered glass"
+      },
+      {
+        "label": "Power",
+        "value": "2× AAA batteries"
+      }
+    ],
+    "warranty": "1-year warranty + 6-month extension on registration",
+    "tags": [],
+    "image": {
+      "icon": "scale",
+      "tint": "amber"
+    },
+    "healthConcerns": [
+      "weight-management"
+    ]
+  },
+  {
+    "id": "dev-012",
+    "slug": "omron-ne-c101-nebulizer",
+    "name": "Omron NE-C101 Compressor Nebulizer",
+    "brand": "Omron",
+    "category": "health-devices",
+    "subcategory": "Nebulizers",
+    "store": "devices",
+    "price": 1899,
+    "mrp": 2750,
+    "rating": 4.6,
+    "reviewCount": 9870,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 65,
+    "packSize": "1 unit with adult & child masks",
+    "description": "A reliable compressor nebulizer for effective respiratory therapy at home, delivering medication deep into the airways for asthma, COPD and congestion relief.",
+    "highlights": [
+      "Efficient 0.3 ml/min nebulisation rate",
+      "Includes adult & child masks",
+      "Simple one-button operation"
+    ],
+    "usage": "Add prescribed medication to the chamber, attach the mask and inhale normally for 10–15 minutes.",
+    "manufacturer": "Omron Healthcare India Pvt Ltd",
+    "countryOfOrigin": "China",
+    "specifications": [
+      {
+        "label": "Nebulisation Rate",
+        "value": "~0.3 ml/min"
+      },
+      {
+        "label": "Particle Size",
+        "value": "~4.5 µm MMAD"
+      },
+      {
+        "label": "Medication Capacity",
+        "value": "10 ml"
+      },
+      {
+        "label": "Power",
+        "value": "AC 230V"
+      }
+    ],
+    "warranty": "2-year manufacturer warranty",
+    "tags": [],
+    "image": {
+      "icon": "nebulizer",
+      "tint": "sky"
+    },
+    "healthConcerns": [
+      "senior-care"
+    ]
+  },
+  {
+    "id": "dev-013",
+    "slug": "onetouch-select-plus-glucometer",
+    "name": "OneTouch Select Plus Simple Kit",
+    "brand": "OneTouch",
+    "category": "diabetes-care",
+    "subcategory": "Glucometers",
+    "store": "devices",
+    "price": 999,
+    "mrp": 1399,
+    "rating": 4.5,
+    "reviewCount": 7654,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 105,
+    "packSize": "Meter + 10 strips + lancets",
+    "description": "OneTouch Select Plus Simple makes daily glucose testing effortless with colour-coded range indicators that instantly show if readings are low, in-range or high.",
+    "highlights": [
+      "ColourSure range indicator",
+      "Results in 5 seconds",
+      "No setup or coding required"
+    ],
+    "usage": "Insert strip, apply a small blood drop and read in 5 seconds.",
+    "manufacturer": "LifeScan India (imported)",
+    "countryOfOrigin": "Switzerland",
+    "specifications": [
+      {
+        "label": "Sample Size",
+        "value": "1 µL"
+      },
+      {
+        "label": "Measuring Time",
+        "value": "5 seconds"
+      },
+      {
+        "label": "Memory",
+        "value": "500 results"
+      }
+    ],
+    "warranty": "Lifetime meter warranty",
+    "tags": [],
+    "image": {
+      "icon": "glucose",
+      "tint": "blue"
+    },
+    "healthConcerns": [
+      "diabetes"
+    ]
+  },
+  {
+    "id": "dev-014",
+    "slug": "philips-innospire-mini-nebulizer",
+    "name": "Philips InnoSpire Mini Nebulizer",
+    "brand": "Philips",
+    "category": "health-devices",
+    "subcategory": "Nebulizers",
+    "store": "devices",
+    "price": 3299,
+    "mrp": 4290,
+    "rating": 4.5,
+    "reviewCount": 4320,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 45,
+    "packSize": "1 portable unit with masks",
+    "description": "A compact, travel-friendly compressor nebulizer from Philips Respironics with fast treatment times and consistent medication delivery.",
+    "highlights": [
+      "Compact & travel friendly",
+      "Fast, consistent aerosol delivery",
+      "Works with all common medications"
+    ],
+    "usage": "Assemble, add medication, and breathe normally through the mouthpiece or mask.",
+    "manufacturer": "Philips India Ltd",
+    "countryOfOrigin": "USA",
+    "specifications": [
+      {
+        "label": "Weight",
+        "value": "440 g"
+      },
+      {
+        "label": "Particle Size",
+        "value": "~5 µm MMAD"
+      },
+      {
+        "label": "Noise Level",
+        "value": "< 58 dB"
+      }
+    ],
+    "warranty": "2-year manufacturer warranty",
+    "tags": [],
+    "image": {
+      "icon": "nebulizer",
+      "tint": "violet"
+    }
+  },
+  {
+    "id": "dev-015",
+    "slug": "boldfit-shaker",
+    "name": "Boldfit Gym Shaker Pro 700ml",
+    "brand": "Boldfit",
+    "category": "fitness-gadgets",
+    "subcategory": "Fitness Accessories",
+    "store": "devices",
+    "price": 199,
+    "mrp": 499,
+    "rating": 4.4,
+    "reviewCount": 23450,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 300,
+    "packSize": "1 bottle of 700 ml",
+    "description": "A leak-proof, BPA-free shaker bottle with stainless steel blender ball for smooth, lump-free protein shakes anywhere.",
+    "highlights": [
+      "100% leak-proof lid",
+      "BPA-free food-grade material",
+      "Stainless steel blender ball"
+    ],
+    "usage": "Add liquid first, then powder. Shake 20–30 seconds.",
+    "manufacturer": "AS Ventures, Mumbai",
+    "countryOfOrigin": "India",
+    "specifications": [
+      {
+        "label": "Capacity",
+        "value": "700 ml"
+      },
+      {
+        "label": "Material",
+        "value": "BPA-free Tritan"
+      }
+    ],
+    "warranty": "No warranty",
+    "tags": [],
+    "image": {
+      "icon": "protein",
+      "tint": "mint"
+    },
+    "frequentlyBoughtWith": [
+      "muscleblaze-whey-gold-1kg"
+    ]
+  },
+  {
+    "id": "dev-016",
+    "slug": "flamingo-orthopedic-heating-pad",
+    "name": "Flamingo Orthopaedic Heating Pad",
+    "brand": "Flamingo",
+    "category": "health-devices",
+    "subcategory": "Pain Management",
+    "store": "devices",
+    "price": 749,
+    "mrp": 999,
+    "rating": 4.4,
+    "reviewCount": 6210,
+    "prescriptionRequired": false,
+    "inStock": true,
+    "stockCount": 120,
+    "packSize": "1 regular-size pad",
+    "description": "An electric heating pad with three heat settings for drug-free relief from back pain, joint stiffness, cramps and muscle spasms.",
+    "highlights": [
+      "3 adjustable heat settings",
+      "Soft washable outer cover",
+      "Auto cut-off thermostat for safety"
+    ],
+    "usage": "Place over the painful area for 15–20 minutes at a comfortable heat level.",
+    "manufacturer": "Ascent Meditech Ltd, Mumbai",
+    "countryOfOrigin": "India",
+    "specifications": [
+      {
+        "label": "Heat Settings",
+        "value": "3 levels"
+      },
+      {
+        "label": "Size",
+        "value": "30 × 40 cm"
+      },
+      {
+        "label": "Power",
+        "value": "AC 230V"
+      }
+    ],
+    "warranty": "1-year manufacturer warranty",
+    "tags": [],
+    "image": {
+      "icon": "heart",
+      "tint": "amber"
+    },
+    "healthConcerns": [
+      "senior-care"
+    ]
+  }
+]

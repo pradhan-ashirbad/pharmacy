@@ -1,0 +1,59 @@
+[
+  {
+    "id": "RX9921",
+    "customer": "Ramesh Patel",
+    "fileName": "rx-dr-shah-june.jpg",
+    "fileType": "image",
+    "uploadedOn": "2026-06-11T08:40:00.000Z",
+    "status": "uploaded",
+    "medicines": [
+      "Azithral 500",
+      "Pan 40"
+    ]
+  },
+  {
+    "id": "RX9920",
+    "customer": "Sunita Rao",
+    "fileName": "thyroid-prescription.pdf",
+    "fileType": "pdf",
+    "uploadedOn": "2026-06-11T07:02:00.000Z",
+    "status": "under-review",
+    "medicines": [
+      "Thyronorm 50mcg"
+    ]
+  },
+  {
+    "id": "RX9918",
+    "customer": "Debasish Mohanty",
+    "fileName": "cardiac-clinic-rx.jpg",
+    "fileType": "image",
+    "uploadedOn": "2026-06-10T11:55:00.000Z",
+    "status": "under-review",
+    "medicines": [
+      "Telma 40",
+      "Ecosprin 75"
+    ]
+  },
+  {
+    "id": "RX9915",
+    "customer": "Meera Pillai",
+    "fileName": "diabetes-rx-may.pdf",
+    "fileType": "pdf",
+    "uploadedOn": "2026-06-09T18:20:00.000Z",
+    "status": "approved",
+    "medicines": [
+      "Glycomet GP 1"
+    ]
+  },
+  {
+    "id": "RX9911",
+    "customer": "Vivek Tiwari",
+    "fileName": "old-prescription-2024.jpg",
+    "fileType": "image",
+    "uploadedOn": "2026-06-08T21:10:00.000Z",
+    "status": "rejected",
+    "medicines": [
+      "Montair LC"
+    ]
+  }
+]

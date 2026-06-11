@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "himalaya",
+    "name": "Himalaya",
+    "tagline": "Herbal wellness since 1930",
+    "productCount": 3
+  },
+  {
+    "slug": "dabur",
+    "name": "Dabur",
+    "tagline": "Science-based Ayurveda",
+    "productCount": 1
+  },
+  {
+    "slug": "cipla",
+    "name": "Cipla",
+    "tagline": "Caring for life",
+    "productCount": 2
+  },
+  {
+    "slug": "sun-pharma",
+    "name": "Sun Pharma",
+    "tagline": "India's largest pharma",
+    "productCount": 2
+  },
+  {
+    "slug": "abbott",
+    "name": "Abbott",
+    "tagline": "Life to the fullest",
+    "productCount": 3
+  },
+  {
+    "slug": "gsk",
+    "name": "GSK",
+    "tagline": "Do more, feel better",
+    "productCount": 2
+  },
+  {
+    "slug": "omron",
+    "name": "Omron",
+    "tagline": "Going for zero",
+    "productCount": 3
+  },
+  {
+    "slug": "accu-chek",
+    "name": "Accu-Chek",
+    "tagline": "Diabetes care experts",
+    "productCount": 2
+  },
+  {
+    "slug": "mamaearth",
+    "name": "Mamaearth",
+    "tagline": "Goodness inside",
+    "productCount": 1
+  },
+  {
+    "slug": "muscleblaze",
+    "name": "MuscleBlaze",
+    "tagline": "Ziddi pind",
+    "productCount": 2
+  },
+  {
+    "slug": "dr-trust",
+    "name": "Dr Trust",
+    "tagline": "Healthcare at home",
+    "productCount": 2
+  },
+  {
+    "slug": "patanjali",
+    "name": "Patanjali",
+    "tagline": "Prakriti ka Ashirwad",
+    "productCount": 1
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "MK7H2QK9D1",
+    "customer": "Ramesh Patel",
+    "city": "Ahmedabad",
+    "date": "2026-06-11T08:42:00.000Z",
+    "items": 4,
+    "total": 1864,
+    "payment": "upi",
+    "status": "placed"
+  },
+  {
+    "id": "MK7H1XB2M8",
+    "customer": "Sunita Rao",
+    "city": "Hyderabad",
+    "date": "2026-06-11T07:15:00.000Z",
+    "items": 2,
+    "total": 743,
+    "payment": "cod",
+    "status": "confirmed"
+  },
+  {
+    "id": "MK7GZTW5R3",
+    "customer": "Imran Shaikh",
+    "city": "Mumbai",
+    "date": "2026-06-10T21:03:00.000Z",
+    "items": 6,
+    "total": 3320,
+    "payment": "credit-card",
+    "status": "packed"
+  },
+  {
+    "id": "MK7GYRN8L4",
+    "customer": "Kavya Krishnan",
+    "city": "Chennai",
+    "date": "2026-06-10T18:54:00.000Z",
+    "items": 1,
+    "total": 1690,
+    "payment": "upi",
+    "status": "shipped"
+  },
+  {
+    "id": "MK7GXPD3T6",
+    "customer": "Harpreet Kaur",
+    "city": "Ludhiana",
+    "date": "2026-06-10T15:30:00.000Z",
+    "items": 3,
+    "total": 980,
+    "payment": "net-banking",
+    "status": "shipped"
+  },
+  {
+    "id": "MK7GWLF6V9",
+    "customer": "Debasish Mohanty",
+    "city": "Bhubaneswar",
+    "date": "2026-06-10T12:08:00.000Z",
+    "items": 5,
+    "total": 2455,
+    "payment": "wallet",
+    "status": "out-for-delivery"
+  },
+  {
+    "id": "MK7GVJC1N2",
+    "customer": "Meera Pillai",
+    "city": "Kochi",
+    "date": "2026-06-09T19:25:00.000Z",
+    "items": 2,
+    "total": 567,
+    "payment": "upi",
+    "status": "delivered"
+  },
+  {
+    "id": "MK7GUHB4Q7",
+    "customer": "Anil Choudhary",
+    "city": "Jaipur",
+    "date": "2026-06-09T14:11:00.000Z",
+    "items": 7,
+    "total": 4120,
+    "payment": "debit-card",
+    "status": "delivered"
+  },
+  {
+    "id": "MK7GTGA9S5",
+    "customer": "Pooja Hegde",
+    "city": "Bengaluru",
+    "date": "2026-06-09T10:47:00.000Z",
+    "items": 1,
+    "total": 349,
+    "payment": "cod",
+    "status": "delivered"
+  },
+  {
+    "id": "MK7GSEZ7W1",
+    "customer": "Vivek Tiwari",
+    "city": "Lucknow",
+    "date": "2026-06-08T22:36:00.000Z",
+    "items": 3,
+    "total": 1235,
+    "payment": "upi",
+    "status": "cancelled"
+  }
+]

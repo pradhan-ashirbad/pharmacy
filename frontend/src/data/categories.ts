@@ -1,0 +1,173 @@
+import type { Category, HealthConcern, Brand } from "@/types";
+import { allProducts } from "./products";
+
+function countFor(slug: string): number {
+  return allProducts.filter((p) => p.category === slug).length;
+}
+
+export const categories: Category[] = [
+  {
+    slug: "prescription-medicines",
+    name: "Prescription Medicines",
+    description: "Genuine Rx medicines, verified by licensed pharmacists",
+    icon: "stethoscope",
+    tint: "blue",
+    href: "/medicines?category=prescription-medicines",
+    productCount: countFor("prescription-medicines"),
+  },
+  {
+    slug: "otc-medicines",
+    name: "OTC Medicines",
+    description: "Everyday remedies — no prescription needed",
+    icon: "pill",
+    tint: "sky",
+    href: "/medicines?category=otc-medicines",
+    productCount: countFor("otc-medicines"),
+  },
+  {
+    slug: "wellness-products",
+    name: "Wellness Products",
+    description: "Daily essentials for a healthier lifestyle",
+    icon: "herb",
+    tint: "green",
+    href: "/wellness?category=wellness-products",
+    productCount: countFor("wellness-products"),
+  },
+  {
+    slug: "vitamins-supplements",
+    name: "Vitamins & Supplements",
+    description: "Fill nutritional gaps with trusted formulas",
+    icon: "supplement",
+    tint: "amber",
+    href: "/wellness?category=vitamins-supplements",
+    productCount: countFor("vitamins-supplements"),
+  },
+  {
+    slug: "personal-care",
+    name: "Personal Care",
+    description: "Skin, hair and hygiene — dermatologist approved",
+    icon: "sun",
+    tint: "rose",
+    href: "/wellness?category=personal-care",
+    productCount: countFor("personal-care"),
+  },
+  {
+    slug: "ayurvedic",
+    name: "Ayurvedic Products",
+    description: "Time-tested herbal wellness from trusted brands",
+    icon: "herb",
+    tint: "teal",
+    href: "/wellness?category=ayurvedic",
+    productCount: countFor("ayurvedic"),
+  },
+  {
+    slug: "diabetes-care",
+    name: "Diabetes Care",
+    description: "Monitors, medicines & nutrition for sugar control",
+    icon: "glucose",
+    tint: "violet",
+    href: "/medicines?category=diabetes-care",
+    productCount: countFor("diabetes-care"),
+  },
+  {
+    slug: "health-devices",
+    name: "Health Devices",
+    description: "Clinically accurate devices for home monitoring",
+    icon: "bp",
+    tint: "blue",
+    href: "/health-devices?category=health-devices",
+    productCount: countFor("health-devices"),
+  },
+  {
+    slug: "fitness-gadgets",
+    name: "Fitness Gadgets",
+    description: "Smartwatches, bands & gear for active living",
+    icon: "watch",
+    tint: "green",
+    href: "/health-devices?category=fitness-gadgets",
+    productCount: countFor("fitness-gadgets"),
+  },
+  {
+    slug: "baby-care",
+    name: "Baby Care",
+    description: "Gentle, safe essentials for your little one",
+    icon: "baby",
+    tint: "rose",
+    href: "/wellness?category=baby-care",
+    productCount: countFor("baby-care"),
+  },
+];
+
+export const healthConcerns: HealthConcern[] = [
+  {
+    slug: "diabetes",
+    name: "Diabetes",
+    description: "Monitors, medicines & sugar-free nutrition",
+    icon: "glucose",
+    tint: "sky",
+  },
+  {
+    slug: "heart-care",
+    name: "Heart Care",
+    description: "BP monitors, omega-3 & cardiac care",
+    icon: "heart",
+    tint: "rose",
+  },
+  {
+    slug: "immunity",
+    name: "Immunity",
+    description: "Vitamin C, chyawanprash & daily defence",
+    icon: "shield",
+    tint: "green",
+  },
+  {
+    slug: "skin-care",
+    name: "Skin Care",
+    description: "Cleansers, serums & dermat-approved care",
+    icon: "sun",
+    tint: "amber",
+  },
+  {
+    slug: "weight-management",
+    name: "Weight Management",
+    description: "Protein, trackers & smart nutrition",
+    icon: "scale",
+    tint: "violet",
+  },
+  {
+    slug: "womens-health",
+    name: "Women's Health",
+    description: "Nutrition, hygiene & hormonal balance",
+    icon: "supplement",
+    tint: "rose",
+  },
+  {
+    slug: "mens-health",
+    name: "Men's Health",
+    description: "Energy, fitness & everyday vitality",
+    icon: "protein",
+    tint: "blue",
+  },
+  {
+    slug: "senior-care",
+    name: "Senior Care",
+    description: "Bone, joint, heart & memory support",
+    icon: "bone",
+    tint: "teal",
+  },
+];
+
+export const brands: Brand[] = [
+  { slug: "himalaya", name: "Himalaya", tagline: "Herbal wellness since 1930", productCount: 3 },
+  { slug: "dabur", name: "Dabur", tagline: "Science-based Ayurveda", productCount: 1 },
+  { slug: "cipla", name: "Cipla", tagline: "Caring for life", productCount: 2 },
+  { slug: "sun-pharma", name: "Sun Pharma", tagline: "India's largest pharma", productCount: 2 },
+  { slug: "abbott", name: "Abbott", tagline: "Life to the fullest", productCount: 3 },
+  { slug: "gsk", name: "GSK", tagline: "Do more, feel better", productCount: 2 },
+  { slug: "omron", name: "Omron", tagline: "Going for zero", productCount: 3 },
+  { slug: "accu-chek", name: "Accu-Chek", tagline: "Diabetes care experts", productCount: 2 },
+  { slug: "mamaearth", name: "Mamaearth", tagline: "Goodness inside", productCount: 1 },
+  { slug: "muscleblaze", name: "MuscleBlaze", tagline: "Ziddi pind", productCount: 2 },
+  { slug: "dr-trust", name: "Dr Trust", tagline: "Healthcare at home", productCount: 2 },
+  { slug: "patanjali", name: "Patanjali", tagline: "Prakriti ka Ashirwad", productCount: 1 },
+];

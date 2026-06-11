@@ -1,0 +1,58 @@
+[
+  {
+    "slug": "diabetes",
+    "name": "Diabetes",
+    "description": "Monitors, medicines & sugar-free nutrition",
+    "icon": "glucose",
+    "tint": "sky"
+  },
+  {
+    "slug": "heart-care",
+    "name": "Heart Care",
+    "description": "BP monitors, omega-3 & cardiac care",
+    "icon": "heart",
+    "tint": "rose"
+  },
+  {
+    "slug": "immunity",
+    "name": "Immunity",
+    "description": "Vitamin C, chyawanprash & daily defence",
+    "icon": "shield",
+    "tint": "green"
+  },
+  {
+    "slug": "skin-care",
+    "name": "Skin Care",
+    "description": "Cleansers, serums & dermat-approved care",
+    "icon": "sun",
+    "tint": "amber"
+  },
+  {
+    "slug": "weight-management",
+    "name": "Weight Management",
+    "description": "Protein, trackers & smart nutrition",
+    "icon": "scale",
+    "tint": "violet"
+  },
+  {
+    "slug": "womens-health",
+    "name": "Women's Health",
+    "description": "Nutrition, hygiene & hormonal balance",
+    "icon": "supplement",
+    "tint": "rose"
+  },
+  {
+    "slug": "mens-health",
+    "name": "Men's Health",
+    "description": "Energy, fitness & everyday vitality",
+    "icon": "protein",
+    "tint": "blue"
+  },
+  {
+    "slug": "senior-care",
+    "name": "Senior Care",
+    "description": "Bone, joint, heart & memory support",
+    "icon": "bone",
+    "tint": "teal"
+  }
+]

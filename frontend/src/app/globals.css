@@ -1,0 +1,152 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 210 40% 99%;
+    --foreground: 215 45% 12%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 215 45% 12%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 215 45% 12%;
+
+    --primary: 203 89% 38%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 161 84% 32%;
+    --secondary-foreground: 0 0% 100%;
+
+    --muted: 210 35% 95%;
+    --muted-foreground: 215 18% 44%;
+
+    --accent: 196 75% 94%;
+    --accent-foreground: 203 89% 28%;
+
+    --destructive: 0 74% 50%;
+    --destructive-foreground: 0 0% 100%;
+
+    --success: 152 69% 36%;
+    --success-foreground: 0 0% 100%;
+
+    --warning: 36 92% 50%;
+    --warning-foreground: 24 60% 12%;
+
+    --border: 213 30% 90%;
+    --input: 213 30% 88%;
+    --ring: 203 89% 38%;
+
+    --health-blue: 203 89% 38%;
+    --health-green: 161 84% 32%;
+    --health-mint: 161 60% 94%;
+    --health-sky: 199 90% 95%;
+
+    --radius: 0.75rem;
+  }
+
+  .dark {
+    --background: 217 38% 8%;
+    --foreground: 210 30% 95%;
+
+    --card: 217 34% 11%;
+    --card-foreground: 210 30% 95%;
+
+    --popover: 217 34% 10%;
+    --popover-foreground: 210 30% 95%;
+
+    --primary: 199 88% 55%;
+    --primary-foreground: 217 40% 8%;
+
+    --secondary: 160 70% 45%;
+    --secondary-foreground: 160 60% 8%;
+
+    --muted: 216 28% 16%;
+    --muted-foreground: 214 16% 65%;
+
+    --accent: 207 50% 18%;
+    --accent-foreground: 199 88% 75%;
+
+    --destructive: 0 70% 56%;
+    --destructive-foreground: 0 0% 100%;
+
+    --success: 152 60% 44%;
+    --success-foreground: 150 60% 8%;
+
+    --warning: 38 92% 56%;
+    --warning-foreground: 30 70% 8%;
+
+    --border: 216 26% 19%;
+    --input: 216 26% 22%;
+    --ring: 199 88% 55%;
+
+    --health-blue: 199 88% 55%;
+    --health-green: 160 70% 45%;
+    --health-mint: 165 35% 16%;
+    --health-sky: 206 45% 15%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+  .gradient-hero {
+    background: linear-gradient(
+      135deg,
+      hsl(var(--health-sky)) 0%,
+      hsl(var(--background)) 45%,
+      hsl(var(--health-mint)) 100%
+    );
+  }
+  .gradient-primary {
+    background: linear-gradient(
+      120deg,
+      hsl(var(--health-blue)),
+      hsl(var(--health-green))
+    );
+  }
+  .text-gradient {
+    background: linear-gradient(
+      120deg,
+      hsl(var(--health-blue)),
+      hsl(var(--health-green))
+    );
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+  .scrollbar-none {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .scrollbar-none::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+/* Subtle skeleton shimmer */
+.skeleton {
+  @apply relative overflow-hidden rounded-md bg-muted;
+}
+.skeleton::after {
+  content: "";
+  @apply absolute inset-0 -translate-x-full animate-shimmer bg-gradient-to-r from-transparent via-white/40 to-transparent;
+}
+.dark .skeleton::after {
+  @apply via-white/10;
+}

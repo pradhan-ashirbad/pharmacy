@@ -1,0 +1,32 @@
+[
+  {
+    "code": "WELCOME20",
+    "description": "20% off on your first order (max ₹200)",
+    "type": "percent",
+    "value": 20,
+    "minOrderValue": 499,
+    "maxDiscount": 200
+  },
+  {
+    "code": "FLAT100",
+    "description": "Flat ₹100 off on orders above ₹999",
+    "type": "flat",
+    "value": 100,
+    "minOrderValue": 999
+  },
+  {
+    "code": "HEALTH10",
+    "description": "10% off on wellness orders above ₹799 (max ₹300)",
+    "type": "percent",
+    "value": 10,
+    "minOrderValue": 799,
+    "maxDiscount": 300
+  },
+  {
+    "code": "FREESHIP",
+    "description": "Free delivery on orders above ₹499",
+    "type": "shipping",
+    "value": 0,
+    "minOrderValue": 499
+  }
+]

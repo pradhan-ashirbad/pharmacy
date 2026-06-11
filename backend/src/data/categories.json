@@ -1,0 +1,92 @@
+[
+  {
+    "slug": "prescription-medicines",
+    "name": "Prescription Medicines",
+    "description": "Genuine Rx medicines, verified by licensed pharmacists",
+    "icon": "stethoscope",
+    "tint": "blue",
+    "href": "/medicines?category=prescription-medicines",
+    "productCount": 7
+  },
+  {
+    "slug": "otc-medicines",
+    "name": "OTC Medicines",
+    "description": "Everyday remedies — no prescription needed",
+    "icon": "pill",
+    "tint": "sky",
+    "href": "/medicines?category=otc-medicines",
+    "productCount": 18
+  },
+  {
+    "slug": "wellness-products",
+    "name": "Wellness Products",
+    "description": "Daily essentials for a healthier lifestyle",
+    "icon": "herb",
+    "tint": "green",
+    "href": "/wellness?category=wellness-products",
+    "productCount": 5
+  },
+  {
+    "slug": "vitamins-supplements",
+    "name": "Vitamins & Supplements",
+    "description": "Fill nutritional gaps with trusted formulas",
+    "icon": "supplement",
+    "tint": "amber",
+    "href": "/wellness?category=vitamins-supplements",
+    "productCount": 5
+  },
+  {
+    "slug": "personal-care",
+    "name": "Personal Care",
+    "description": "Skin, hair and hygiene — dermatologist approved",
+    "icon": "sun",
+    "tint": "rose",
+    "href": "/wellness?category=personal-care",
+    "productCount": 6
+  },
+  {
+    "slug": "ayurvedic",
+    "name": "Ayurvedic Products",
+    "description": "Time-tested herbal wellness from trusted brands",
+    "icon": "herb",
+    "tint": "teal",
+    "href": "/wellness?category=ayurvedic",
+    "productCount": 4
+  },
+  {
+    "slug": "diabetes-care",
+    "name": "Diabetes Care",
+    "description": "Monitors, medicines & nutrition for sugar control",
+    "icon": "glucose",
+    "tint": "violet",
+    "href": "/medicines?category=diabetes-care",
+    "productCount": 6
+  },
+  {
+    "slug": "health-devices",
+    "name": "Health Devices",
+    "description": "Clinically accurate devices for home monitoring",
+    "icon": "bp",
+    "tint": "blue",
+    "href": "/health-devices?category=health-devices",
+    "productCount": 9
+  },
+  {
+    "slug": "fitness-gadgets",
+    "name": "Fitness Gadgets",
+    "description": "Smartwatches, bands & gear for active living",
+    "icon": "watch",
+    "tint": "green",
+    "href": "/health-devices?category=fitness-gadgets",
+    "productCount": 5
+  },
+  {
+    "slug": "baby-care",
+    "name": "Baby Care",
+    "description": "Gentle, safe essentials for your little one",
+    "icon": "baby",
+    "tint": "rose",
+    "href": "/wellness?category=baby-care",
+    "productCount": 3
+  }
+]

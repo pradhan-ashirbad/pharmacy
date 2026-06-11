@@ -1,0 +1,208 @@
+[
+  {
+    "id": "MKDEMO1SHIP",
+    "placedOn": "2026-06-08T11:24:00.000Z",
+    "status": "shipped",
+    "items": [
+      {
+        "productId": "med-001",
+        "slug": "dolo-650-tablet",
+        "name": "Dolo 650 Tablet",
+        "brand": "Micro Labs",
+        "packSize": "Strip of 15 tablets",
+        "price": 28,
+        "mrp": 33,
+        "quantity": 2,
+        "image": {
+          "icon": "pill",
+          "tint": "blue"
+        }
+      },
+      {
+        "productId": "wel-016",
+        "slug": "limcee-vitamin-c",
+        "name": "Limcee Vitamin C Chewable",
+        "brand": "Abbott",
+        "packSize": "Strip of 15 tablets — Orange",
+        "price": 23,
+        "mrp": 26,
+        "quantity": 3,
+        "image": {
+          "icon": "sun",
+          "tint": "amber"
+        }
+      },
+      {
+        "productId": "dev-007",
+        "slug": "beurer-po30-oximeter",
+        "name": "Beurer PO30 Pulse Oximeter",
+        "brand": "Beurer",
+        "packSize": "1 unit with lanyard & batteries",
+        "price": 1299,
+        "mrp": 2299,
+        "quantity": 1,
+        "image": {
+          "icon": "oximeter",
+          "tint": "violet"
+        }
+      }
+    ],
+    "address": {
+      "id": "addr-001",
+      "label": "Home",
+      "fullName": "Ashirbad Pradhan",
+      "phone": "98765 43210",
+      "line1": "Flat 402, Sai Residency",
+      "line2": "Patia, Chandrasekharpur",
+      "city": "Bhubaneswar",
+      "state": "Odisha",
+      "pincode": "751024",
+      "isDefault": true
+    },
+    "paymentMethod": "upi",
+    "deliveryMethod": "standard",
+    "summary": {
+      "itemTotal": 2476,
+      "discount": 1052,
+      "couponDiscount": 0,
+      "deliveryFee": 0,
+      "gst": 170,
+      "total": 1424
+    },
+    "timeline": [
+      {
+        "status": "placed",
+        "label": "Order Placed",
+        "timestamp": "2026-06-08T11:24:00.000Z",
+        "description": "We have received your order."
+      },
+      {
+        "status": "confirmed",
+        "label": "Confirmed",
+        "timestamp": "2026-06-08T11:40:00.000Z",
+        "description": "Order verified by our pharmacist."
+      },
+      {
+        "status": "packed",
+        "label": "Packed",
+        "timestamp": "2026-06-09T09:15:00.000Z",
+        "description": "Items packed in tamper-proof packaging."
+      },
+      {
+        "status": "shipped",
+        "label": "Shipped",
+        "timestamp": "2026-06-10T08:30:00.000Z",
+        "description": "Handed over to delivery partner BlueDart."
+      },
+      {
+        "status": "out-for-delivery",
+        "label": "Out for Delivery",
+        "timestamp": null,
+        "description": "Your order will be out for delivery soon."
+      },
+      {
+        "status": "delivered",
+        "label": "Delivered",
+        "timestamp": null,
+        "description": "Expected by 12 Jun 2026."
+      }
+    ],
+    "expectedDelivery": "2026-06-12T18:00:00.000Z"
+  },
+  {
+    "id": "MKDEMO2DLVD",
+    "placedOn": "2026-05-21T16:05:00.000Z",
+    "status": "delivered",
+    "items": [
+      {
+        "productId": "wel-004",
+        "slug": "dabur-chyawanprash-1kg",
+        "name": "Dabur Chyawanprash",
+        "brand": "Dabur",
+        "packSize": "Jar of 1 kg",
+        "price": 319,
+        "mrp": 365,
+        "quantity": 1,
+        "image": {
+          "icon": "herb",
+          "tint": "amber"
+        }
+      },
+      {
+        "productId": "med-023",
+        "slug": "zincovit-tablet",
+        "name": "Zincovit Multivitamin Tablet",
+        "brand": "Apex Labs",
+        "packSize": "Strip of 15 tablets",
+        "price": 105,
+        "mrp": 115,
+        "quantity": 2,
+        "image": {
+          "icon": "supplement",
+          "tint": "green"
+        }
+      }
+    ],
+    "address": {
+      "id": "addr-001",
+      "label": "Home",
+      "fullName": "Ashirbad Pradhan",
+      "phone": "98765 43210",
+      "line1": "Flat 402, Sai Residency",
+      "line2": "Patia, Chandrasekharpur",
+      "city": "Bhubaneswar",
+      "state": "Odisha",
+      "pincode": "751024",
+      "isDefault": true
+    },
+    "paymentMethod": "cod",
+    "deliveryMethod": "express",
+    "summary": {
+      "itemTotal": 595,
+      "discount": 66,
+      "couponDiscount": 0,
+      "deliveryFee": 49,
+      "gst": 63,
+      "total": 578
+    },
+    "timeline": [
+      {
+        "status": "placed",
+        "label": "Order Placed",
+        "timestamp": "2026-05-21T16:05:00.000Z",
+        "description": "We have received your order."
+      },
+      {
+        "status": "confirmed",
+        "label": "Confirmed",
+        "timestamp": "2026-05-21T16:18:00.000Z",
+        "description": "Order verified by our pharmacist."
+      },
+      {
+        "status": "packed",
+        "label": "Packed",
+        "timestamp": "2026-05-21T19:42:00.000Z",
+        "description": "Items packed in tamper-proof packaging."
+      },
+      {
+        "status": "shipped",
+        "label": "Shipped",
+        "timestamp": "2026-05-22T07:55:00.000Z",
+        "description": "Handed over to delivery partner Delhivery."
+      },
+      {
+        "status": "out-for-delivery",
+        "label": "Out for Delivery",
+        "timestamp": "2026-05-22T10:20:00.000Z",
+        "description": "Delivery executive is on the way."
+      },
+      {
+        "status": "delivered",
+        "label": "Delivered",
+        "timestamp": "2026-05-22T13:47:00.000Z",
+        "description": "Delivered. Paid ₹578 via Cash on Delivery."
+      }
+    ],
+    "expectedDelivery": "2026-05-22T18:00:00.000Z"
+  }
+]
