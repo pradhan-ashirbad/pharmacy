@@ -38,7 +38,7 @@ export const deviceProducts: Product[] = [
     ],
     warranty: "5-year manufacturer warranty on monitor",
     tags: ["bestseller"],
-    image: { icon: "bp", tint: "blue" },
+    image: { icon: "bp", tint: "blue", imageUrl: "https://images.unsplash.com/photo-1584820927498-cfe5211fd8bf?auto=format&fit=crop&w=400&h=400&q=75" },
     healthConcerns: ["heart-care", "senior-care"],
     frequentlyBoughtWith: ["telma-40-tablet", "beurer-po30-oximeter"],
   },
@@ -76,7 +76,7 @@ export const deviceProducts: Product[] = [
     ],
     warranty: "1-year warranty + lifetime calibration support",
     tags: [],
-    image: { icon: "bp", tint: "teal" },
+    image: { icon: "bp", tint: "teal", imageUrl: "https://images.unsplash.com/photo-1584820927498-cfe5211fd8bf?auto=format&fit=crop&w=400&h=400&q=75" },
     healthConcerns: ["heart-care", "senior-care"],
   },
   {
@@ -114,7 +114,7 @@ export const deviceProducts: Product[] = [
     ],
     warranty: "Lifetime meter replacement warranty",
     tags: ["bestseller"],
-    image: { icon: "glucose", tint: "sky" },
+    image: { icon: "glucose", tint: "sky", imageUrl: "https://images.unsplash.com/photo-1579154204601-01588f351e67?auto=format&fit=crop&w=400&h=400&q=75" },
     healthConcerns: ["diabetes"],
     frequentlyBoughtWith: ["accu-chek-active-strips-50", "protinex-diabetes-care"],
   },
@@ -149,7 +149,7 @@ export const deviceProducts: Product[] = [
       { label: "Sample", value: "Capillary blood 1–2 µL" },
     ],
     tags: [],
-    image: { icon: "glucose", tint: "mint" },
+    image: { icon: "glucose", tint: "mint", imageUrl: "https://images.unsplash.com/photo-1579154204601-01588f351e67?auto=format&fit=crop&w=400&h=400&q=75" },
     healthConcerns: ["diabetes"],
     frequentlyBoughtWith: ["accu-chek-active-glucometer"],
   },
@@ -187,7 +187,7 @@ export const deviceProducts: Product[] = [
     ],
     warranty: "1-year manufacturer warranty",
     tags: [],
-    image: { icon: "thermometer", tint: "rose" },
+    image: { icon: "thermometer", tint: "rose", imageUrl: "https://images.unsplash.com/photo-1585771724684-38269d6639fd?auto=format&fit=crop&w=400&h=400&q=75" },
   },
   {
     id: "dev-006",
@@ -222,7 +222,7 @@ export const deviceProducts: Product[] = [
     ],
     warranty: "6-month warranty",
     tags: [],
-    image: { icon: "thermometer", tint: "blue" },
+    image: { icon: "thermometer", tint: "blue", imageUrl: "https://images.unsplash.com/photo-1585771724684-38269d6639fd?auto=format&fit=crop&w=400&h=400&q=75" },
   },
   {
     id: "dev-007",
@@ -258,7 +258,7 @@ export const deviceProducts: Product[] = [
     ],
     warranty: "5-year manufacturer warranty",
     tags: ["trending"],
-    image: { icon: "oximeter", tint: "violet" },
+    image: { icon: "oximeter", tint: "violet", imageUrl: "https://images.unsplash.com/photo-1576671081837-49000212a370?auto=format&fit=crop&w=400&h=400&q=75" },
     healthConcerns: ["heart-care", "senior-care"],
   },
   {
@@ -296,7 +296,7 @@ export const deviceProducts: Product[] = [
     ],
     warranty: "1-year manufacturer warranty",
     tags: ["trending", "bestseller"],
-    image: { icon: "watch", tint: "blue" },
+    image: { icon: "watch", tint: "blue", imageUrl: "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=400&h=400&q=75" },
     healthConcerns: ["heart-care", "weight-management"],
     frequentlyBoughtWith: ["healthsense-weighing-scale"],
   },
@@ -334,7 +334,7 @@ export const deviceProducts: Product[] = [
     ],
     warranty: "1-year manufacturer warranty",
     tags: [],
-    image: { icon: "watch", tint: "teal" },
+    image: { icon: "watch", tint: "teal", imageUrl: "https://images.unsplash.com/photo-1557438159-51eec7a6c9e8?auto=format&fit=crop&w=400&h=400&q=75" },
     healthConcerns: ["weight-management"],
   },
   {
@@ -371,7 +371,7 @@ export const deviceProducts: Product[] = [
     ],
     warranty: "1-year manufacturer warranty",
     tags: [],
-    image: { icon: "band", tint: "green" },
+    image: { icon: "band", tint: "green", imageUrl: "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?auto=format&fit=crop&w=400&h=400&q=75" },
     healthConcerns: ["weight-management"],
   },
   {
@@ -408,7 +408,7 @@ export const deviceProducts: Product[] = [
     ],
     warranty: "1-year warranty + 6-month extension on registration",
     tags: [],
-    image: { icon: "scale", tint: "amber" },
+    image: { icon: "scale", tint: "amber", imageUrl: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=400&h=400&q=75" },
     healthConcerns: ["weight-management"],
   },
   {
@@ -446,7 +446,7 @@ export const deviceProducts: Product[] = [
     ],
     warranty: "2-year manufacturer warranty",
     tags: [],
-    image: { icon: "nebulizer", tint: "sky" },
+    image: { icon: "nebulizer", tint: "sky", imageUrl: "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?auto=format&fit=crop&w=400&h=400&q=75" },
     healthConcerns: ["senior-care"],
   },
   {
@@ -482,7 +482,7 @@ export const deviceProducts: Product[] = [
     ],
     warranty: "Lifetime meter warranty",
     tags: [],
-    image: { icon: "glucose", tint: "blue" },
+    image: { icon: "glucose", tint: "blue", imageUrl: "https://images.unsplash.com/photo-1579154204601-01588f351e67?auto=format&fit=crop&w=400&h=400&q=75" },
     healthConcerns: ["diabetes"],
   },
   {
@@ -518,7 +518,7 @@ export const deviceProducts: Product[] = [
     ],
     warranty: "2-year manufacturer warranty",
     tags: [],
-    image: { icon: "nebulizer", tint: "violet" },
+    image: { icon: "nebulizer", tint: "violet", imageUrl: "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?auto=format&fit=crop&w=400&h=400&q=75" },
   },
   {
     id: "dev-015",
@@ -552,7 +552,7 @@ export const deviceProducts: Product[] = [
     ],
     warranty: "No warranty",
     tags: [],
-    image: { icon: "protein", tint: "mint" },
+    image: { icon: "protein", tint: "mint", imageUrl: "https://images.unsplash.com/photo-1594381898411-846e7d193883?auto=format&fit=crop&w=400&h=400&q=75" },
     frequentlyBoughtWith: ["muscleblaze-whey-gold-1kg"],
   },
   {
@@ -588,7 +588,7 @@ export const deviceProducts: Product[] = [
     ],
     warranty: "1-year manufacturer warranty",
     tags: [],
-    image: { icon: "heart", tint: "amber" },
+    image: { icon: "heart", tint: "amber", imageUrl: "https://images.unsplash.com/photo-1584820927498-cfe5211fd8bf?auto=format&fit=crop&w=400&h=400&q=75" },
     healthConcerns: ["senior-care"],
   },
 ];

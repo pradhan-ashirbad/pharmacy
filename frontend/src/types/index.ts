@@ -60,6 +60,7 @@ export type Tint =
 export interface ProductImage {
   icon: IconKey;
   tint: Tint;
+  imageUrl?: string;
 }
 
 export interface SpecRow {

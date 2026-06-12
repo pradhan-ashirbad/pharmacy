@@ -33,7 +33,7 @@ export const medicineProducts: Product[] = [
     manufacturer: "Micro Labs Ltd, Bengaluru, Karnataka",
     countryOfOrigin: "India",
     tags: ["bestseller"],
-    image: { icon: "pill", tint: "blue" },
+    image: { icon: "pill", tint: "blue", imageUrl: "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=400&h=400&q=75" },
     healthConcerns: ["immunity"],
     frequentlyBoughtWith: ["vicks-vaporub-50ml", "electral-powder", "strepsils-orange"],
   },
@@ -67,7 +67,7 @@ export const medicineProducts: Product[] = [
     manufacturer: "GlaxoSmithKline Pharmaceuticals Ltd, Mumbai",
     countryOfOrigin: "India",
     tags: [],
-    image: { icon: "pill", tint: "rose" },
+    image: { icon: "pill", tint: "rose", imageUrl: "https://images.unsplash.com/photo-1550572017-edd951b55104?auto=format&fit=crop&w=400&h=400&q=75" },
     frequentlyBoughtWith: ["dolo-650-tablet", "vicks-vaporub-50ml"],
   },
   {
@@ -101,7 +101,7 @@ export const medicineProducts: Product[] = [
     manufacturer: "Alembic Pharmaceuticals Ltd, Vadodara",
     countryOfOrigin: "India",
     tags: [],
-    image: { icon: "pill", tint: "violet" },
+    image: { icon: "pill", tint: "violet", imageUrl: "https://images.unsplash.com/photo-1585435557343-3b348031900d?auto=format&fit=crop&w=400&h=400&q=75" },
   },
   {
     id: "med-004",
@@ -133,7 +133,7 @@ export const medicineProducts: Product[] = [
     manufacturer: "GlaxoSmithKline Pharmaceuticals Ltd, Mumbai",
     countryOfOrigin: "India",
     tags: [],
-    image: { icon: "pill", tint: "teal" },
+    image: { icon: "pill", tint: "teal", imageUrl: "https://images.unsplash.com/photo-1550572017-edd951b55104?auto=format&fit=crop&w=400&h=400&q=75" },
   },
   {
     id: "med-005",
@@ -165,7 +165,7 @@ export const medicineProducts: Product[] = [
     manufacturer: "Alkem Laboratories Ltd, Mumbai",
     countryOfOrigin: "India",
     tags: ["bestseller"],
-    image: { icon: "pill", tint: "amber" },
+    image: { icon: "pill", tint: "amber", imageUrl: "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=400&h=400&q=75" },
     frequentlyBoughtWith: ["digene-gel-mint"],
   },
   {
@@ -198,7 +198,7 @@ export const medicineProducts: Product[] = [
     manufacturer: "Glenmark Pharmaceuticals Ltd, Mumbai",
     countryOfOrigin: "India",
     tags: [],
-    image: { icon: "heart", tint: "rose" },
+    image: { icon: "heart", tint: "rose", imageUrl: "https://images.unsplash.com/photo-1550572017-edd951b55104?auto=format&fit=crop&w=400&h=400&q=75" },
     healthConcerns: ["heart-care", "senior-care"],
     frequentlyBoughtWith: ["ecosprin-75-tablet", "omron-hem-7120-bp-monitor"],
   },
@@ -232,7 +232,7 @@ export const medicineProducts: Product[] = [
     manufacturer: "USV Pvt Ltd, Mumbai",
     countryOfOrigin: "India",
     tags: [],
-    image: { icon: "glucose", tint: "sky" },
+    image: { icon: "glucose", tint: "sky", imageUrl: "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=400&h=400&q=75" },
     healthConcerns: ["diabetes"],
     frequentlyBoughtWith: ["accu-chek-active-strips-50", "sugar-free-gold-500"],
   },
@@ -266,7 +266,7 @@ export const medicineProducts: Product[] = [
     manufacturer: "Sanofi India Ltd, Mumbai",
     countryOfOrigin: "India",
     tags: ["trending"],
-    image: { icon: "pill", tint: "mint" },
+    image: { icon: "pill", tint: "mint", imageUrl: "https://images.unsplash.com/photo-1585435557343-3b348031900d?auto=format&fit=crop&w=400&h=400&q=75" },
     healthConcerns: ["immunity"],
   },
   {
@@ -299,7 +299,7 @@ export const medicineProducts: Product[] = [
     manufacturer: "Cipla Ltd, Mumbai",
     countryOfOrigin: "India",
     tags: [],
-    image: { icon: "pill", tint: "green" },
+    image: { icon: "pill", tint: "green", imageUrl: "https://images.unsplash.com/photo-1585435557343-3b348031900d?auto=format&fit=crop&w=400&h=400&q=75" },
   },
   {
     id: "med-010",
@@ -331,7 +331,7 @@ export const medicineProducts: Product[] = [
     manufacturer: "Sanofi India Ltd, Mumbai",
     countryOfOrigin: "India",
     tags: ["bestseller"],
-    image: { icon: "pill", tint: "sky" },
+    image: { icon: "pill", tint: "sky", imageUrl: "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=400&h=400&q=75" },
     frequentlyBoughtWith: ["volini-pain-relief-spray", "moov-pain-relief-cream"],
   },
   {
@@ -363,7 +363,7 @@ export const medicineProducts: Product[] = [
     manufacturer: "Sun Pharmaceutical Industries Ltd, Mumbai",
     countryOfOrigin: "India",
     tags: ["trending"],
-    image: { icon: "spray", tint: "violet" },
+    image: { icon: "spray", tint: "violet", imageUrl: "https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?auto=format&fit=crop&w=400&h=400&q=75" },
     frequentlyBoughtWith: ["combiflam-tablet", "moov-pain-relief-cream"],
   },
   {
@@ -395,7 +395,7 @@ export const medicineProducts: Product[] = [
     manufacturer: "Reckitt Benckiser (India) Ltd, Gurugram",
     countryOfOrigin: "India",
     tags: [],
-    image: { icon: "cream", tint: "amber" },
+    image: { icon: "cream", tint: "amber", imageUrl: "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=400&h=400&q=75" },
   },
   {
     id: "med-013",
@@ -426,7 +426,7 @@ export const medicineProducts: Product[] = [
     manufacturer: "Procter & Gamble Health Ltd, Mumbai",
     countryOfOrigin: "India",
     tags: ["bestseller"],
-    image: { icon: "cream", tint: "teal" },
+    image: { icon: "cream", tint: "teal", imageUrl: "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=400&h=400&q=75" },
     frequentlyBoughtWith: ["dolo-650-tablet", "strepsils-orange"],
   },
   {
@@ -459,7 +459,7 @@ export const medicineProducts: Product[] = [
     manufacturer: "Kenvue India Pvt Ltd, Mumbai",
     countryOfOrigin: "India",
     tags: [],
-    image: { icon: "syrup", tint: "rose" },
+    image: { icon: "syrup", tint: "rose", imageUrl: "https://images.unsplash.com/photo-1607619056574-7b8d3ee536b2?auto=format&fit=crop&w=400&h=400&q=75" },
   },
   {
     id: "med-015",
@@ -491,7 +491,7 @@ export const medicineProducts: Product[] = [
     manufacturer: "Abbott India Ltd, Mumbai",
     countryOfOrigin: "India",
     tags: [],
-    image: { icon: "syrup", tint: "mint" },
+    image: { icon: "syrup", tint: "mint", imageUrl: "https://images.unsplash.com/photo-1559757296-5c84adc8881c?auto=format&fit=crop&w=400&h=400&q=75" },
     frequentlyBoughtWith: ["pan-40-tablet"],
   },
   {
@@ -523,7 +523,7 @@ export const medicineProducts: Product[] = [
     manufacturer: "FDC Ltd, Mumbai",
     countryOfOrigin: "India",
     tags: [],
-    image: { icon: "powder", tint: "sky" },
+    image: { icon: "powder", tint: "sky", imageUrl: "https://images.unsplash.com/photo-1590736704728-f4730bb30770?auto=format&fit=crop&w=400&h=400&q=75" },
   },
   {
     id: "med-017",
@@ -555,7 +555,7 @@ export const medicineProducts: Product[] = [
     manufacturer: "USV Pvt Ltd, Mumbai",
     countryOfOrigin: "India",
     tags: [],
-    image: { icon: "heart", tint: "rose" },
+    image: { icon: "heart", tint: "rose", imageUrl: "https://images.unsplash.com/photo-1550572017-edd951b55104?auto=format&fit=crop&w=400&h=400&q=75" },
     healthConcerns: ["heart-care", "senior-care"],
     frequentlyBoughtWith: ["telma-40-tablet"],
   },
@@ -589,7 +589,7 @@ export const medicineProducts: Product[] = [
     manufacturer: "Torrent Pharmaceuticals Ltd, Ahmedabad",
     countryOfOrigin: "India",
     tags: ["bestseller"],
-    image: { icon: "bone", tint: "amber" },
+    image: { icon: "bone", tint: "amber", imageUrl: "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=400&h=400&q=75" },
     healthConcerns: ["womens-health", "senior-care"],
   },
   {
@@ -622,7 +622,7 @@ export const medicineProducts: Product[] = [
     manufacturer: "Abbott India Ltd, Mumbai",
     countryOfOrigin: "India",
     tags: [],
-    image: { icon: "pill", tint: "violet" },
+    image: { icon: "pill", tint: "violet", imageUrl: "https://images.unsplash.com/photo-1550572017-edd951b55104?auto=format&fit=crop&w=400&h=400&q=75" },
     healthConcerns: ["womens-health"],
   },
   {
@@ -655,7 +655,7 @@ export const medicineProducts: Product[] = [
     manufacturer: "Cipla Ltd, Mumbai",
     countryOfOrigin: "India",
     tags: [],
-    image: { icon: "pill", tint: "sky" },
+    image: { icon: "pill", tint: "sky", imageUrl: "https://images.unsplash.com/photo-1585435557343-3b348031900d?auto=format&fit=crop&w=400&h=400&q=75" },
   },
   {
     id: "med-021",
@@ -686,7 +686,7 @@ export const medicineProducts: Product[] = [
     manufacturer: "Win-Medicare Pvt Ltd, New Delhi",
     countryOfOrigin: "India",
     tags: [],
-    image: { icon: "cream", tint: "rose" },
+    image: { icon: "cream", tint: "rose", imageUrl: "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=400&h=400&q=75" },
   },
   {
     id: "med-022",
@@ -718,7 +718,7 @@ export const medicineProducts: Product[] = [
     manufacturer: "Bayer Pharmaceuticals Pvt Ltd, Thane",
     countryOfOrigin: "India",
     tags: [],
-    image: { icon: "brain", tint: "blue" },
+    image: { icon: "brain", tint: "blue", imageUrl: "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=400&h=400&q=75" },
   },
   {
     id: "med-023",
@@ -750,7 +750,7 @@ export const medicineProducts: Product[] = [
     manufacturer: "Apex Laboratories Pvt Ltd, Chennai",
     countryOfOrigin: "India",
     tags: ["bestseller"],
-    image: { icon: "supplement", tint: "green" },
+    image: { icon: "supplement", tint: "green", imageUrl: "https://images.unsplash.com/photo-1471864190281-a93a3070b6de?auto=format&fit=crop&w=400&h=400&q=75" },
     healthConcerns: ["immunity"],
   },
   {
@@ -782,7 +782,7 @@ export const medicineProducts: Product[] = [
     manufacturer: "Reckitt Benckiser (India) Ltd, Gurugram",
     countryOfOrigin: "India",
     tags: [],
-    image: { icon: "pill", tint: "amber" },
+    image: { icon: "pill", tint: "amber", imageUrl: "https://images.unsplash.com/photo-1585435557343-3b348031900d?auto=format&fit=crop&w=400&h=400&q=75" },
   },
   {
     id: "med-025",
@@ -814,7 +814,7 @@ export const medicineProducts: Product[] = [
     manufacturer: "Pfizer Ltd, Mumbai",
     countryOfOrigin: "India",
     tags: [],
-    image: { icon: "pill", tint: "mint" },
+    image: { icon: "pill", tint: "mint", imageUrl: "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=400&h=400&q=75" },
   },
   {
     id: "med-026",
@@ -846,7 +846,7 @@ export const medicineProducts: Product[] = [
     manufacturer: "Procter & Gamble Health Ltd, Mumbai",
     countryOfOrigin: "India",
     tags: [],
-    image: { icon: "supplement", tint: "rose" },
+    image: { icon: "supplement", tint: "rose", imageUrl: "https://images.unsplash.com/photo-1471864190281-a93a3070b6de?auto=format&fit=crop&w=400&h=400&q=75" },
     healthConcerns: ["senior-care", "diabetes"],
   },
 ];
