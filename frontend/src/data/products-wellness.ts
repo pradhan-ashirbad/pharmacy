@@ -30,7 +30,7 @@ export const wellnessProducts: Product[] = [
     manufacturer: "Bright Lifecare Pvt Ltd, Gurugram",
     countryOfOrigin: "India",
     tags: ["bestseller"],
-    image: { icon: "supplement", tint: "blue", imageUrl: "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=400&h=400&q=75" },
+    image: { icon: "supplement", tint: "blue" },
     healthConcerns: ["immunity"],
     frequentlyBoughtWith: ["limcee-vitamin-c", "hk-vitals-fish-oil"],
   },
@@ -62,7 +62,7 @@ export const wellnessProducts: Product[] = [
     manufacturer: "Bright Lifecare Pvt Ltd, Gurugram",
     countryOfOrigin: "India",
     tags: ["bestseller", "trending"],
-    image: { icon: "protein", tint: "violet", imageUrl: "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?auto=format&fit=crop&w=400&h=400&q=75" },
+    image: { icon: "protein", tint: "violet" },
     healthConcerns: ["weight-management", "mens-health"],
     frequentlyBoughtWith: ["muscleblaze-creatine", "boldfit-shaker"],
   },
@@ -94,7 +94,7 @@ export const wellnessProducts: Product[] = [
     manufacturer: "Glanbia Performance Nutrition (imported)",
     countryOfOrigin: "USA",
     tags: ["trending"],
-    image: { icon: "protein", tint: "amber", imageUrl: "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?auto=format&fit=crop&w=400&h=400&q=75" },
+    image: { icon: "protein", tint: "amber" },
     healthConcerns: ["weight-management", "mens-health"],
   },
   {
@@ -126,7 +126,7 @@ export const wellnessProducts: Product[] = [
     manufacturer: "Dabur India Ltd, Ghaziabad",
     countryOfOrigin: "India",
     tags: ["bestseller"],
-    image: { icon: "herb", tint: "amber", imageUrl: "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?auto=format&fit=crop&w=400&h=400&q=75" },
+    image: { icon: "herb", tint: "amber" },
     healthConcerns: ["immunity", "senior-care"],
     frequentlyBoughtWith: ["patanjali-honey-500g", "himalaya-ashwagandha"],
   },
@@ -159,7 +159,7 @@ export const wellnessProducts: Product[] = [
     manufacturer: "Himalaya Wellness Company, Bengaluru",
     countryOfOrigin: "India",
     tags: ["trending"],
-    image: { icon: "herb", tint: "green", imageUrl: "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?auto=format&fit=crop&w=400&h=400&q=75" },
+    image: { icon: "herb", tint: "green" },
     healthConcerns: ["immunity", "mens-health"],
   },
   {
@@ -191,7 +191,7 @@ export const wellnessProducts: Product[] = [
     manufacturer: "Shree Baidyanath Ayurved Bhawan, Kolkata",
     countryOfOrigin: "India",
     tags: [],
-    image: { icon: "powder", tint: "green", imageUrl: "https://images.unsplash.com/photo-1590736704728-f4730bb30770?auto=format&fit=crop&w=400&h=400&q=75" },
+    image: { icon: "powder", tint: "green" },
   },
   {
     id: "wel-007",
@@ -221,7 +221,7 @@ export const wellnessProducts: Product[] = [
     manufacturer: "Galderma India Pvt Ltd, Mumbai",
     countryOfOrigin: "India",
     tags: ["bestseller"],
-    image: { icon: "drops", tint: "sky", imageUrl: "https://images.unsplash.com/photo-1556228578-626cf9f1c37a?auto=format&fit=crop&w=400&h=400&q=75" },
+    image: { icon: "drops", tint: "sky" },
     healthConcerns: ["skin-care"],
     frequentlyBoughtWith: ["minimalist-niacinamide-serum"],
   },
@@ -253,7 +253,7 @@ export const wellnessProducts: Product[] = [
     manufacturer: "Uprising Science Pvt Ltd, Jaipur",
     countryOfOrigin: "India",
     tags: ["trending"],
-    image: { icon: "drops", tint: "mint", imageUrl: "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=400&h=400&q=75" },
+    image: { icon: "drops", tint: "mint" },
     healthConcerns: ["skin-care"],
   },
   {
@@ -284,7 +284,7 @@ export const wellnessProducts: Product[] = [
     manufacturer: "Honasa Consumer Ltd, Gurugram",
     countryOfOrigin: "India",
     tags: [],
-    image: { icon: "sun", tint: "amber", imageUrl: "https://images.unsplash.com/photo-1556228578-626cf9f1c37a?auto=format&fit=crop&w=400&h=400&q=75" },
+    image: { icon: "sun", tint: "amber" },
     healthConcerns: ["skin-care"],
   },
   {
@@ -315,7 +315,7 @@ export const wellnessProducts: Product[] = [
     manufacturer: "Body Cupid Pvt Ltd, Bengaluru",
     countryOfOrigin: "India",
     tags: [],
-    image: { icon: "drops", tint: "violet", imageUrl: "https://images.unsplash.com/photo-1618932260643-eee4a2f652a6?auto=format&fit=crop&w=400&h=400&q=75" },
+    image: { icon: "drops", tint: "violet" },
     healthConcerns: ["skin-care"],
   },
   {
@@ -346,7 +346,7 @@ export const wellnessProducts: Product[] = [
     manufacturer: "Reckitt Benckiser (India) Ltd, Gurugram",
     countryOfOrigin: "India",
     tags: ["bestseller"],
-    image: { icon: "hygiene", tint: "green", imageUrl: "https://images.unsplash.com/photo-1584515933487-779824d29309?auto=format&fit=crop&w=400&h=400&q=75" },
+    image: { icon: "hygiene", tint: "green" },
   },
   {
     id: "wel-012",
@@ -375,7 +375,7 @@ export const wellnessProducts: Product[] = [
     manufacturer: "Procter & Gamble Hygiene & Health Care Ltd, Mumbai",
     countryOfOrigin: "India",
     tags: [],
-    image: { icon: "hygiene", tint: "rose", imageUrl: "https://images.unsplash.com/photo-1584515933487-779824d29309?auto=format&fit=crop&w=400&h=400&q=75" },
+    image: { icon: "hygiene", tint: "rose" },
     healthConcerns: ["womens-health"],
   },
   {
@@ -405,7 +405,7 @@ export const wellnessProducts: Product[] = [
     manufacturer: "Reckitt Benckiser (India) Ltd, Gurugram",
     countryOfOrigin: "India",
     tags: [],
-    image: { icon: "shield", tint: "violet", imageUrl: "https://images.unsplash.com/photo-1471864190281-a93a3070b6de?auto=format&fit=crop&w=400&h=400&q=75" },
+    image: { icon: "shield", tint: "violet" },
     healthConcerns: ["mens-health"],
   },
   {
@@ -436,7 +436,7 @@ export const wellnessProducts: Product[] = [
     manufacturer: "Body Cupid Pvt Ltd, Bengaluru",
     countryOfOrigin: "India",
     tags: [],
-    image: { icon: "nutrition", tint: "amber", imageUrl: "https://images.unsplash.com/photo-1578496781379-7dc8fed91bef?auto=format&fit=crop&w=400&h=400&q=75" },
+    image: { icon: "nutrition", tint: "amber" },
     healthConcerns: ["weight-management"],
   },
   {
@@ -467,7 +467,7 @@ export const wellnessProducts: Product[] = [
     manufacturer: "Zywie Ventures Pvt Ltd, Mumbai",
     countryOfOrigin: "India",
     tags: [],
-    image: { icon: "protein", tint: "rose", imageUrl: "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?auto=format&fit=crop&w=400&h=400&q=75" },
+    image: { icon: "protein", tint: "rose" },
     healthConcerns: ["womens-health", "weight-management"],
   },
   {
@@ -499,7 +499,7 @@ export const wellnessProducts: Product[] = [
     manufacturer: "Abbott India Ltd, Mumbai",
     countryOfOrigin: "India",
     tags: ["bestseller"],
-    image: { icon: "sun", tint: "amber", imageUrl: "https://images.unsplash.com/photo-1585435557343-3b348031900d?auto=format&fit=crop&w=400&h=400&q=75" },
+    image: { icon: "sun", tint: "amber" },
     healthConcerns: ["immunity", "skin-care"],
   },
   {
@@ -531,7 +531,7 @@ export const wellnessProducts: Product[] = [
     manufacturer: "Bright Lifecare Pvt Ltd, Gurugram",
     countryOfOrigin: "India",
     tags: [],
-    image: { icon: "supplement", tint: "sky", imageUrl: "https://images.unsplash.com/photo-1471864190281-a93a3070b6de?auto=format&fit=crop&w=400&h=400&q=75" },
+    image: { icon: "supplement", tint: "sky" },
     healthConcerns: ["heart-care", "senior-care"],
   },
   {
@@ -563,7 +563,7 @@ export const wellnessProducts: Product[] = [
     manufacturer: "Bayer Pharmaceuticals Pvt Ltd, Thane",
     countryOfOrigin: "India",
     tags: [],
-    image: { icon: "supplement", tint: "amber", imageUrl: "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=400&h=400&q=75" },
+    image: { icon: "supplement", tint: "amber" },
     healthConcerns: ["immunity"],
   },
   {
@@ -595,7 +595,7 @@ export const wellnessProducts: Product[] = [
     manufacturer: "Sun Pharmaceutical Industries Ltd, Mumbai",
     countryOfOrigin: "India",
     tags: [],
-    image: { icon: "supplement", tint: "teal", imageUrl: "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=400&h=400&q=75" },
+    image: { icon: "supplement", tint: "teal" },
     healthConcerns: ["mens-health", "immunity"],
   },
   {
@@ -626,7 +626,7 @@ export const wellnessProducts: Product[] = [
     manufacturer: "Patanjali Ayurved Ltd, Haridwar",
     countryOfOrigin: "India",
     tags: [],
-    image: { icon: "nutrition", tint: "amber", imageUrl: "https://images.unsplash.com/photo-1471585374977-0a2aafba7fd0?auto=format&fit=crop&w=400&h=400&q=75" },
+    image: { icon: "nutrition", tint: "amber" },
     healthConcerns: ["immunity", "weight-management"],
   },
   {
@@ -657,7 +657,7 @@ export const wellnessProducts: Product[] = [
     manufacturer: "Bright Lifecare Pvt Ltd, Gurugram",
     countryOfOrigin: "India",
     tags: [],
-    image: { icon: "protein", tint: "blue", imageUrl: "https://images.unsplash.com/photo-1590736704728-f4730bb30770?auto=format&fit=crop&w=400&h=400&q=75" },
+    image: { icon: "protein", tint: "blue" },
     healthConcerns: ["mens-health", "weight-management"],
   },
   {
@@ -688,7 +688,7 @@ export const wellnessProducts: Product[] = [
     manufacturer: "Nutricia International Pvt Ltd, Delhi",
     countryOfOrigin: "India",
     tags: [],
-    image: { icon: "glucose", tint: "sky", imageUrl: "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?auto=format&fit=crop&w=400&h=400&q=75" },
+    image: { icon: "glucose", tint: "sky" },
     healthConcerns: ["diabetes", "senior-care"],
     frequentlyBoughtWith: ["sugar-free-gold-500", "accu-chek-active-strips-50"],
   },
@@ -720,7 +720,7 @@ export const wellnessProducts: Product[] = [
     manufacturer: "Zydus Wellness Ltd, Ahmedabad",
     countryOfOrigin: "India",
     tags: [],
-    image: { icon: "nutrition", tint: "mint", imageUrl: "https://images.unsplash.com/photo-1590736704728-f4730bb30770?auto=format&fit=crop&w=400&h=400&q=75" },
+    image: { icon: "nutrition", tint: "mint" },
     healthConcerns: ["diabetes", "weight-management"],
   },
   {
@@ -750,7 +750,7 @@ export const wellnessProducts: Product[] = [
     manufacturer: "Procter & Gamble Hygiene & Health Care Ltd, Mumbai",
     countryOfOrigin: "India",
     tags: ["bestseller"],
-    image: { icon: "baby", tint: "sky", imageUrl: "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?auto=format&fit=crop&w=400&h=400&q=75" },
+    image: { icon: "baby", tint: "sky" },
     frequentlyBoughtWith: ["himalaya-baby-lotion", "cerelac-wheat-apple"],
   },
   {
@@ -781,7 +781,7 @@ export const wellnessProducts: Product[] = [
     manufacturer: "Himalaya Wellness Company, Bengaluru",
     countryOfOrigin: "India",
     tags: [],
-    image: { icon: "baby", tint: "rose", imageUrl: "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?auto=format&fit=crop&w=400&h=400&q=75" },
+    image: { icon: "baby", tint: "rose" },
   },
   {
     id: "wel-026",
@@ -811,6 +811,6 @@ export const wellnessProducts: Product[] = [
     manufacturer: "Nestlé India Ltd, Gurugram",
     countryOfOrigin: "India",
     tags: [],
-    image: { icon: "baby", tint: "amber", imageUrl: "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?auto=format&fit=crop&w=400&h=400&q=75" },
+    image: { icon: "baby", tint: "amber" },
   },
 ];

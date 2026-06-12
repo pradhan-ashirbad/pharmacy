@@ -49,6 +49,9 @@ export function ProductGallery({ product }: { product: Product }) {
         >
           <ProductVisual
             image={product.image}
+            name={product.name}
+            brand={product.brand}
+            packSize={product.packSize}
             className="aspect-square w-full"
             iconClassName={variants[active].iconClassName}
           />

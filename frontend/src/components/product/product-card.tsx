@@ -86,6 +86,8 @@ export function ProductCard({ product, className }: ProductCardProps) {
       >
         <ProductVisual
           image={product.image}
+          name={product.name}
+          brand={product.brand}
           className="aspect-square w-full transition-transform duration-300 group-hover:scale-[1.03]"
         />
         <div className="absolute left-3 top-3 flex flex-col gap-1.5">
