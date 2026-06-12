@@ -38,7 +38,12 @@ export const deviceProducts: Product[] = [
     ],
     warranty: "5-year manufacturer warranty on monitor",
     tags: ["bestseller"],
-    image: { icon: "bp", tint: "blue" },
+    image: {
+      icon: "bp",
+      tint: "blue",
+      imageUrl:
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTNBjuO5trlZ7IjmXqA-btLNd-7HEnjiwAIbwQ59kj38MdObOlRyAr2GE0c9NcBdOeXpwtwfV9aVbkH-S_FJ5mlJ-tOmnrwBT_fHlEqta6Ix_8Zl1s9ER2f",
+    },
     healthConcerns: ["heart-care", "senior-care"],
     frequentlyBoughtWith: ["telma-40-tablet", "beurer-po30-oximeter"],
   },
@@ -114,7 +119,12 @@ export const deviceProducts: Product[] = [
     ],
     warranty: "Lifetime meter replacement warranty",
     tags: ["bestseller"],
-    image: { icon: "glucose", tint: "sky" },
+    image: {
+      icon: "glucose",
+      tint: "sky",
+      imageUrl:
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRFW9Q5GE4HOU2-j41PArLGWdvwIScQpyNhytKYHq03BPxjAoYNwQQmO8KlMHDVe0kTwQ-rdWvZy338QasIZ5aP_wb5Wcg79Qvjl81qp5ed_uKpw-0PwpA3HA",
+    },
     healthConcerns: ["diabetes"],
     frequentlyBoughtWith: ["accu-chek-active-strips-50", "protinex-diabetes-care"],
   },
@@ -296,7 +306,12 @@ export const deviceProducts: Product[] = [
     ],
     warranty: "1-year manufacturer warranty",
     tags: ["trending", "bestseller"],
-    image: { icon: "watch", tint: "blue" },
+    image: {
+      icon: "watch",
+      tint: "blue",
+      imageUrl:
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSb09uhaXwZpaEXQ-t1DgONJ0s8WlwlTZJUR3Nt4lWlNJ2LQvN_HilJR6gZRqyGExL9yKoZTl6bk2h3RZr_qZk4R7ElBb_9",
+    },
     healthConcerns: ["heart-care", "weight-management"],
     frequentlyBoughtWith: ["healthsense-weighing-scale"],
   },
@@ -334,7 +349,12 @@ export const deviceProducts: Product[] = [
     ],
     warranty: "1-year manufacturer warranty",
     tags: [],
-    image: { icon: "watch", tint: "teal" },
+    image: {
+      icon: "watch",
+      tint: "teal",
+      imageUrl:
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQN6-ItSZAZ13AiHCk1OolJZHZntqDYi2DsxiZ43u1RFSbY5TRGrx4taCi5PQz_ASPQow3dp9swX78S7knUzIHjJUyJ8UaBsN_XLmS7L89vxdl_fX2LqNRxag",
+    },
     healthConcerns: ["weight-management"],
   },
   {
@@ -552,7 +572,12 @@ export const deviceProducts: Product[] = [
     ],
     warranty: "No warranty",
     tags: [],
-    image: { icon: "protein", tint: "mint" },
+    image: {
+      icon: "protein",
+      tint: "mint",
+      imageUrl:
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRm4kb-L2ZRpTcBFPg2CtiPW9JJ_iuzL87-07922Z2_WCbn9avGMFmQQzhQmod49uHxrXS3fi8djztcfGcL5A8DypwakeG9D0DG8dUCcE6FaybnxJ03SAHYmA",
+    },
     frequentlyBoughtWith: ["muscleblaze-whey-gold-1kg"],
   },
   {

@@ -33,7 +33,12 @@ export const medicineProducts: Product[] = [
     manufacturer: "Micro Labs Ltd, Bengaluru, Karnataka",
     countryOfOrigin: "India",
     tags: ["bestseller"],
-    image: { icon: "pill", tint: "blue" },
+    image: {
+      icon: "pill",
+      tint: "blue",
+      imageUrl:
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRxVKwusEHG9vOW5ueuNSXmPK8wR_FsNaqZXehwRIfRjP8VNu38L7e389PtLgJUpmpF7cUoTQ9XpYV2ZiIS_1SEAUVBKq1v",
+    },
     healthConcerns: ["immunity"],
     frequentlyBoughtWith: ["vicks-vaporub-50ml", "electral-powder", "strepsils-orange"],
   },
@@ -363,7 +368,12 @@ export const medicineProducts: Product[] = [
     manufacturer: "Sun Pharmaceutical Industries Ltd, Mumbai",
     countryOfOrigin: "India",
     tags: ["trending"],
-    image: { icon: "spray", tint: "violet" },
+    image: {
+      icon: "spray",
+      tint: "violet",
+      imageUrl:
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSu6Vkgi0A4_QBGUEy4nNqmyMEwVZ9nHX488s9DcG4rtGekLlCJycVq2O_eMxm_j4ei89GaLpwaA0uUZla2QvtDgaNeyaQU-zrB0e5IfQs",
+    },
     frequentlyBoughtWith: ["combiflam-tablet", "moov-pain-relief-cream"],
   },
   {
@@ -395,7 +405,12 @@ export const medicineProducts: Product[] = [
     manufacturer: "Reckitt Benckiser (India) Ltd, Gurugram",
     countryOfOrigin: "India",
     tags: [],
-    image: { icon: "cream", tint: "amber" },
+    image: {
+      icon: "cream",
+      tint: "amber",
+      imageUrl:
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ2b_hE3rdxUwih45qrqMaxEJNzt1lF318Al4ef9BLd_14gBNUe1vfTdQuYHc_X70hnmlCBlVMm3bH5OtmwdW-XewzAW5d32uFdtOURfCLjH-1iUu5iqK-G",
+    },
   },
   {
     id: "med-013",
@@ -426,7 +441,12 @@ export const medicineProducts: Product[] = [
     manufacturer: "Procter & Gamble Health Ltd, Mumbai",
     countryOfOrigin: "India",
     tags: ["bestseller"],
-    image: { icon: "cream", tint: "teal" },
+    image: {
+      icon: "cream",
+      tint: "teal",
+      imageUrl:
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ9vDgCgZ_qFgKC-PPhnOelE_3zenbyeslpDxaUm_bRYqmrrntaIy89bFSu6_tR0F9HKYxoYD-biJCJhaRqnZm_KRsCTVGPkoh1ztNMWLx5i-meyqD1if5FEw",
+    },
     frequentlyBoughtWith: ["dolo-650-tablet", "strepsils-orange"],
   },
   {
@@ -491,7 +511,12 @@ export const medicineProducts: Product[] = [
     manufacturer: "Abbott India Ltd, Mumbai",
     countryOfOrigin: "India",
     tags: [],
-    image: { icon: "syrup", tint: "mint" },
+    image: {
+      icon: "syrup",
+      tint: "mint",
+      imageUrl:
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRP74ySmUWYHXzr-Ql8tx5iPyUWqDhzlMoZ9Osz7F4H4RccdKno51jOwPHWRp1dZN75OVXjHlG-U-dmz0c5d660J1hjInfoA-kr6DJayyMNae8i6mtJIG0eHw",
+    },
     frequentlyBoughtWith: ["pan-40-tablet"],
   },
   {
@@ -523,7 +548,12 @@ export const medicineProducts: Product[] = [
     manufacturer: "FDC Ltd, Mumbai",
     countryOfOrigin: "India",
     tags: [],
-    image: { icon: "powder", tint: "sky" },
+    image: {
+      icon: "powder",
+      tint: "sky",
+      imageUrl:
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTbeFeTlb2rygdqHht_nprtwkwBEIerXpJqdQBESwNdk0EInQQ_EzCkRAAK8jbevahBMlG8ee0mMPkTw7KZSe-Bi9E2VYcWA-h250jI0jAhC0dCr0JGT_3i4g",
+    },
   },
   {
     id: "med-017",
@@ -589,7 +619,12 @@ export const medicineProducts: Product[] = [
     manufacturer: "Torrent Pharmaceuticals Ltd, Ahmedabad",
     countryOfOrigin: "India",
     tags: ["bestseller"],
-    image: { icon: "bone", tint: "amber" },
+    image: {
+      icon: "bone",
+      tint: "amber",
+      imageUrl:
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR4xUXqphAtwxkv97TabQ_GVg34_Rkj-Sses8GcHYvqAM0-nlF0gtc-FonkhM9g7OHvii7bS1lV4j73ESFmTGEntCsKq-kr6qG0qRphjcVcGrGzDh-DuAM1",
+    },
     healthConcerns: ["womens-health", "senior-care"],
   },
   {
@@ -750,7 +785,12 @@ export const medicineProducts: Product[] = [
     manufacturer: "Apex Laboratories Pvt Ltd, Chennai",
     countryOfOrigin: "India",
     tags: ["bestseller"],
-    image: { icon: "supplement", tint: "green" },
+    image: {
+      icon: "supplement",
+      tint: "green",
+      imageUrl:
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQfoiigZ4Qte6y5ywCZKMEiOP6dF2-L0NKkkMezbve5FjMrkC-woYqeKkxgrGe5_GQdXtMk3kl28TimiUIeGCC1Shp9CshxrobWjhas6wpQQZhAb14XH5cGqQ",
+    },
     healthConcerns: ["immunity"],
   },
   {

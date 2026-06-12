@@ -62,7 +62,12 @@ export const wellnessProducts: Product[] = [
     manufacturer: "Bright Lifecare Pvt Ltd, Gurugram",
     countryOfOrigin: "India",
     tags: ["bestseller", "trending"],
-    image: { icon: "protein", tint: "violet" },
+    image: {
+      icon: "protein",
+      tint: "violet",
+      imageUrl:
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT7RMfPCbLuQC-Wk2TsYDqeOiz7jWZHcMsGY2jcEkNBBCO0b__4TkZqwOkdU17kClLc_RCHdYsE-mv28b_BuGfcvFPr0C1wKpgRtBluCaBAdFD07dhvSHiq",
+    },
     healthConcerns: ["weight-management", "mens-health"],
     frequentlyBoughtWith: ["muscleblaze-creatine", "boldfit-shaker"],
   },
@@ -126,7 +131,12 @@ export const wellnessProducts: Product[] = [
     manufacturer: "Dabur India Ltd, Ghaziabad",
     countryOfOrigin: "India",
     tags: ["bestseller"],
-    image: { icon: "herb", tint: "amber" },
+    image: {
+      icon: "herb",
+      tint: "amber",
+      imageUrl:
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhkK-gkGJpogDbsAdsHxFJ7Thbg50pETqtqwR2FG2RvUnPJj9s_CdPnEw03seqTx5dylz3PJHkxDHqJLsP_GWHsPiytlsbnZMYeWQBKg0H",
+    },
     healthConcerns: ["immunity", "senior-care"],
     frequentlyBoughtWith: ["patanjali-honey-500g", "himalaya-ashwagandha"],
   },
@@ -221,7 +231,12 @@ export const wellnessProducts: Product[] = [
     manufacturer: "Galderma India Pvt Ltd, Mumbai",
     countryOfOrigin: "India",
     tags: ["bestseller"],
-    image: { icon: "drops", tint: "sky" },
+    image: {
+      icon: "drops",
+      tint: "sky",
+      imageUrl:
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTDv7ysrpYu6yIHGtpPVu9s__zlTHCxQ2EIg1tMyzbwEMbXH-5FVYiPnOe0mopvdwEpIII1OkhWU75UJfjyjCOuPlfCMNdRmWexXhTiN4KBCagKk1XU1VoT",
+    },
     healthConcerns: ["skin-care"],
     frequentlyBoughtWith: ["minimalist-niacinamide-serum"],
   },
@@ -346,7 +361,12 @@ export const wellnessProducts: Product[] = [
     manufacturer: "Reckitt Benckiser (India) Ltd, Gurugram",
     countryOfOrigin: "India",
     tags: ["bestseller"],
-    image: { icon: "hygiene", tint: "green" },
+    image: {
+      icon: "hygiene",
+      tint: "green",
+      imageUrl:
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQCsIxouYq-v8_aXmDB6pusZb3KX0nA4rsXkFOKGjlkfZzl99PScpAzUZ356p7xyj0ijEowLia0HNr2LqYvsO-fTLHNuINf8sSOfc3Y8FIHaaBt7az_GoWM",
+    },
   },
   {
     id: "wel-012",
@@ -626,7 +646,12 @@ export const wellnessProducts: Product[] = [
     manufacturer: "Patanjali Ayurved Ltd, Haridwar",
     countryOfOrigin: "India",
     tags: [],
-    image: { icon: "nutrition", tint: "amber" },
+    image: {
+      icon: "nutrition",
+      tint: "amber",
+      imageUrl:
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTddEdOWydZ2Q9PaXM6KTUsAHQGZEhIVJN6XRcYhS60oYubrclIyi0bfPnUlyq94xluFr2m40F9eqHutRPZT-jGE_6RAZ-EBnIH0xdlkvIcKcvuIDZGkN5_",
+    },
     healthConcerns: ["immunity", "weight-management"],
   },
   {
