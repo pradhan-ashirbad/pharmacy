@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 
-import { BlogSection } from "@/components/home/blog-section";
 import { BrandsSection } from "@/components/home/brands-section";
 import { CategoriesSection } from "@/components/home/categories-section";
 import { FeaturedProducts } from "@/components/home/featured-products";
@@ -25,7 +24,6 @@ export default function HomePage() {
       <OffersSection />
       <BrandsSection />
       <RecentlyViewed />
-      <BlogSection />
     </>
   );
 }

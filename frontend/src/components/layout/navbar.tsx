@@ -17,7 +17,6 @@ import {
 } from "lucide-react";
 
 import { Logo } from "@/components/shared/logo";
-import { ThemeToggle } from "@/components/theme/theme-toggle";
 import { Avatar, AvatarFallback } from "@/components/ui/avatar";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
@@ -48,7 +47,6 @@ const navLinks = [
   { href: "/wellness", label: "Wellness" },
   { href: "/health-devices", label: "Health Devices" },
   { href: "/offers", label: "Offers" },
-  { href: "/blog", label: "Health Blog" },
 ];
 
 export function Navbar() {
@@ -135,7 +133,6 @@ export function Navbar() {
             </Button>
           </Link>
 
-          <ThemeToggle />
 
           <Link href="/compare" className="relative hidden sm:block">
             <Button variant="ghost" size="icon" aria-label={`Compare (${compareCount} items)`}>

@@ -79,58 +79,58 @@ interface TintStyle {
 export const tintStyles: Record<Tint, TintStyle> = {
   blue: {
     surface:
-      "bg-gradient-to-br from-sky-100 via-sky-50 to-blue-100 dark:from-sky-950/60 dark:via-slate-900 dark:to-blue-950/60",
-    text: "text-sky-600 dark:text-sky-400",
-    chip: "bg-sky-100 text-sky-700 dark:bg-sky-950 dark:text-sky-300",
-    ring: "group-hover:ring-sky-200 dark:group-hover:ring-sky-900",
+      "bg-gradient-to-br from-sky-100 via-sky-50 to-blue-100",
+    text: "text-sky-600",
+    chip: "bg-sky-100 text-sky-700",
+    ring: "group-hover:ring-sky-200",
   },
   green: {
     surface:
-      "bg-gradient-to-br from-emerald-100 via-emerald-50 to-teal-100 dark:from-emerald-950/60 dark:via-slate-900 dark:to-teal-950/60",
-    text: "text-emerald-600 dark:text-emerald-400",
-    chip: "bg-emerald-100 text-emerald-700 dark:bg-emerald-950 dark:text-emerald-300",
-    ring: "group-hover:ring-emerald-200 dark:group-hover:ring-emerald-900",
+      "bg-gradient-to-br from-emerald-100 via-emerald-50 to-teal-100",
+    text: "text-emerald-600",
+    chip: "bg-emerald-100 text-emerald-700",
+    ring: "group-hover:ring-emerald-200",
   },
   mint: {
     surface:
-      "bg-gradient-to-br from-teal-100 via-emerald-50 to-cyan-100 dark:from-teal-950/60 dark:via-slate-900 dark:to-cyan-950/60",
-    text: "text-teal-600 dark:text-teal-400",
-    chip: "bg-teal-100 text-teal-700 dark:bg-teal-950 dark:text-teal-300",
-    ring: "group-hover:ring-teal-200 dark:group-hover:ring-teal-900",
+      "bg-gradient-to-br from-teal-100 via-emerald-50 to-cyan-100",
+    text: "text-teal-600",
+    chip: "bg-teal-100 text-teal-700",
+    ring: "group-hover:ring-teal-200",
   },
   sky: {
     surface:
-      "bg-gradient-to-br from-cyan-100 via-sky-50 to-sky-100 dark:from-cyan-950/60 dark:via-slate-900 dark:to-sky-950/60",
-    text: "text-cyan-600 dark:text-cyan-400",
-    chip: "bg-cyan-100 text-cyan-700 dark:bg-cyan-950 dark:text-cyan-300",
-    ring: "group-hover:ring-cyan-200 dark:group-hover:ring-cyan-900",
+      "bg-gradient-to-br from-cyan-100 via-sky-50 to-sky-100",
+    text: "text-cyan-600",
+    chip: "bg-cyan-100 text-cyan-700",
+    ring: "group-hover:ring-cyan-200",
   },
   amber: {
     surface:
-      "bg-gradient-to-br from-amber-100 via-orange-50 to-yellow-100 dark:from-amber-950/60 dark:via-slate-900 dark:to-yellow-950/60",
-    text: "text-amber-600 dark:text-amber-400",
-    chip: "bg-amber-100 text-amber-700 dark:bg-amber-950 dark:text-amber-300",
-    ring: "group-hover:ring-amber-200 dark:group-hover:ring-amber-900",
+      "bg-gradient-to-br from-amber-100 via-orange-50 to-yellow-100",
+    text: "text-amber-600",
+    chip: "bg-amber-100 text-amber-700",
+    ring: "group-hover:ring-amber-200",
   },
   rose: {
     surface:
-      "bg-gradient-to-br from-rose-100 via-pink-50 to-pink-100 dark:from-rose-950/60 dark:via-slate-900 dark:to-pink-950/60",
-    text: "text-rose-600 dark:text-rose-400",
-    chip: "bg-rose-100 text-rose-700 dark:bg-rose-950 dark:text-rose-300",
-    ring: "group-hover:ring-rose-200 dark:group-hover:ring-rose-900",
+      "bg-gradient-to-br from-rose-100 via-pink-50 to-pink-100",
+    text: "text-rose-600",
+    chip: "bg-rose-100 text-rose-700",
+    ring: "group-hover:ring-rose-200",
   },
   violet: {
     surface:
-      "bg-gradient-to-br from-violet-100 via-purple-50 to-indigo-100 dark:from-violet-950/60 dark:via-slate-900 dark:to-indigo-950/60",
-    text: "text-violet-600 dark:text-violet-400",
-    chip: "bg-violet-100 text-violet-700 dark:bg-violet-950 dark:text-violet-300",
-    ring: "group-hover:ring-violet-200 dark:group-hover:ring-violet-900",
+      "bg-gradient-to-br from-violet-100 via-purple-50 to-indigo-100",
+    text: "text-violet-600",
+    chip: "bg-violet-100 text-violet-700",
+    ring: "group-hover:ring-violet-200",
   },
   teal: {
     surface:
-      "bg-gradient-to-br from-teal-100 via-cyan-50 to-emerald-100 dark:from-teal-950/60 dark:via-slate-900 dark:to-emerald-950/60",
-    text: "text-teal-600 dark:text-teal-400",
-    chip: "bg-teal-100 text-teal-700 dark:bg-teal-950 dark:text-teal-300",
-    ring: "group-hover:ring-teal-200 dark:group-hover:ring-teal-900",
+      "bg-gradient-to-br from-teal-100 via-cyan-50 to-emerald-100",
+    text: "text-teal-600",
+    chip: "bg-teal-100 text-teal-700",
+    ring: "group-hover:ring-teal-200",
   },
 };

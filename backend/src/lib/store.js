@@ -27,7 +27,6 @@ const collections = {
   brands: load("brands.json"),
   offers: load("offers.json"),
   coupons: load("coupons.json"),
-  blog: load("blog.json"),
   adminStats: load("admin-stats.json"), // plain object, not an array
   adminOrders: load("admin-orders.json"),
   adminPrescriptions: load("admin-prescriptions.json"),

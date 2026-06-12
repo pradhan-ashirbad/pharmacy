@@ -22,28 +22,28 @@ const statCards = [
     value: formatINR(adminStats.revenue),
     change: adminStats.revenueChange,
     icon: IndianRupee,
-    tint: "bg-emerald-100 text-emerald-600 dark:bg-emerald-950 dark:text-emerald-400",
+    tint: "bg-emerald-100 text-emerald-600",
   },
   {
     label: "Orders",
     value: adminStats.orders.toLocaleString("en-IN"),
     change: adminStats.ordersChange,
     icon: ShoppingBag,
-    tint: "bg-sky-100 text-sky-600 dark:bg-sky-950 dark:text-sky-400",
+    tint: "bg-sky-100 text-sky-600",
   },
   {
     label: "Customers",
     value: adminStats.customers.toLocaleString("en-IN"),
     change: adminStats.customersChange,
     icon: Users,
-    tint: "bg-violet-100 text-violet-600 dark:bg-violet-950 dark:text-violet-400",
+    tint: "bg-violet-100 text-violet-600",
   },
   {
     label: "Products",
     value: adminStats.products.toLocaleString("en-IN"),
     change: adminStats.productsChange,
     icon: Package,
-    tint: "bg-amber-100 text-amber-600 dark:bg-amber-950 dark:text-amber-400",
+    tint: "bg-amber-100 text-amber-600",
   },
 ];
 
@@ -119,7 +119,7 @@ export function DashboardView() {
                     "w-full max-w-14 rounded-t-xl",
                     i === monthlyRevenue.length - 1
                       ? "gradient-primary"
-                      : "bg-primary/20 dark:bg-primary/30"
+                      : "bg-primary/20"
                   )}
                   style={{ minHeight: 8 }}
                 />

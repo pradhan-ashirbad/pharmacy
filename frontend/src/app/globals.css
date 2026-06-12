@@ -45,47 +45,6 @@
 
     --radius: 0.75rem;
   }
-
-  .dark {
-    --background: 217 38% 8%;
-    --foreground: 210 30% 95%;
-
-    --card: 217 34% 11%;
-    --card-foreground: 210 30% 95%;
-
-    --popover: 217 34% 10%;
-    --popover-foreground: 210 30% 95%;
-
-    --primary: 199 88% 55%;
-    --primary-foreground: 217 40% 8%;
-
-    --secondary: 160 70% 45%;
-    --secondary-foreground: 160 60% 8%;
-
-    --muted: 216 28% 16%;
-    --muted-foreground: 214 16% 65%;
-
-    --accent: 207 50% 18%;
-    --accent-foreground: 199 88% 75%;
-
-    --destructive: 0 70% 56%;
-    --destructive-foreground: 0 0% 100%;
-
-    --success: 152 60% 44%;
-    --success-foreground: 150 60% 8%;
-
-    --warning: 38 92% 56%;
-    --warning-foreground: 30 70% 8%;
-
-    --border: 216 26% 19%;
-    --input: 216 26% 22%;
-    --ring: 199 88% 55%;
-
-    --health-blue: 199 88% 55%;
-    --health-green: 160 70% 45%;
-    --health-mint: 165 35% 16%;
-    --health-sky: 206 45% 15%;
-  }
 }
 
 @layer base {
@@ -146,7 +105,4 @@
 .skeleton::after {
   content: "";
   @apply absolute inset-0 -translate-x-full animate-shimmer bg-gradient-to-r from-transparent via-white/40 to-transparent;
-}
-.dark .skeleton::after {
-  @apply via-white/10;
 }

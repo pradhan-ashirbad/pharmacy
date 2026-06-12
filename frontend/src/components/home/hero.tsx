@@ -137,7 +137,7 @@ export function Hero() {
             className="absolute left-0 top-12 w-56 animate-float rounded-2xl border bg-background/95 p-4 shadow-lifted backdrop-blur"
           >
             <div className="flex items-center gap-3">
-              <span className="flex h-10 w-10 items-center justify-center rounded-xl bg-rose-100 dark:bg-rose-950">
+              <span className="flex h-10 w-10 items-center justify-center rounded-xl bg-rose-100">
                 <HeartPulse className="h-5 w-5 text-rose-500" />
               </span>
               <div>
@@ -154,7 +154,7 @@ export function Hero() {
                   initial={{ height: 0 }}
                   animate={{ height: `${h}%` }}
                   transition={{ delay: 0.5 + i * 0.05 }}
-                  className="w-2 rounded-full bg-rose-300/80 dark:bg-rose-700"
+                  className="w-2 rounded-full bg-rose-300/80"
                 />
               ))}
             </div>
@@ -168,7 +168,7 @@ export function Hero() {
             style={{ animationName: "float" }}
           >
             <div className="flex items-center gap-3">
-              <span className="flex h-10 w-10 items-center justify-center rounded-xl bg-emerald-100 dark:bg-emerald-950">
+              <span className="flex h-10 w-10 items-center justify-center rounded-xl bg-emerald-100">
                 <Truck className="h-5 w-5 text-emerald-600" />
               </span>
               <div>
@@ -186,7 +186,7 @@ export function Hero() {
           >
             <div className="flex items-center justify-between">
               <div className="flex items-center gap-3">
-                <span className="flex h-10 w-10 items-center justify-center rounded-xl bg-sky-100 dark:bg-sky-950">
+                <span className="flex h-10 w-10 items-center justify-center rounded-xl bg-sky-100">
                   <Pill className="h-5 w-5 text-sky-600" />
                 </span>
                 <div>

@@ -9,7 +9,7 @@ All prices are in **INR (₹)**. The data layer is fully mocked (typed TS data o
 ## ✨ Features
 
 **Storefront**
-- Premium homepage — hero with live search, categories, featured products, health concerns, offers, brand marquee, recently viewed, health blog
+- Premium homepage — hero with live search, categories, featured products, health concerns, offers, brand marquee, recently viewed
 - Three dedicated stores — **Medicines**, **Wellness**, **Health Devices/Gadgets** — each with search, category/brand/price filters, prescription filter and sorting (popularity, price, rating, discount)
 - Rich product detail page — image gallery with hover‑zoom, dosage/ingredients/specs/side‑effects tabs, reviews with rating distribution, frequently‑bought‑together bundle, similar products, Buy Now / Add to Cart
 - Cart with quantity controls, coupon engine, GST + delivery breakdown and free‑delivery progress
@@ -26,7 +26,7 @@ All prices are in **INR (₹)**. The data layer is fully mocked (typed TS data o
 
 **Cross‑cutting**
 - Fully responsive (mobile / tablet / desktop)
-- Dark mode, skeleton loaders, toast notifications, empty/loading/error states
+- Skeleton loaders, toast notifications, empty/loading/error states
 - SEO: per‑page metadata, Open Graph, JSON‑LD product schema, `sitemap.xml`, `robots.txt`
 - Smooth Framer Motion animations, Shadcn‑style UI built on Radix primitives
 
@@ -52,7 +52,7 @@ pharmacy/
 │       ├── app/            # App Router pages
 │       │   ├── (site)/     # storefront (navbar + footer layout)
 │       │   └── admin/      # admin panel (its own shell)
-│       ├── components/     # ui/ (Shadcn), shared/, layout/, product/, cart/, home/, orders/, auth/, prescriptions/, store/, theme/
+│       ├── components/     # ui/ (Shadcn), shared/, layout/, product/, cart/, home/, orders/, auth/, prescriptions/, store/
 │       ├── data/           # typed mock catalogue & content
 │       ├── store/          # Zustand stores (cart, wishlist, compare, auth, account, recently‑viewed)
 │       ├── lib/            # utils, pricing, orders, visuals
@@ -63,7 +63,7 @@ pharmacy/
         ├── server.js, app.js
         ├── data/           # JSON mirrors of the frontend data
         ├── lib/            # store.js (DB seam), pricing.js, utils.js
-        └── routes/         # products, categories, offers, blog, auth, cart, orders, prescriptions, admin
+        └── routes/         # products, categories, offers, auth, cart, orders, prescriptions, admin
 ```
 
 ---
@@ -120,7 +120,6 @@ GET  /api/products            # ?store=&category=&brand=&q=&minPrice=&maxPrice=&
 GET  /api/products/:slug
 GET  /api/products/:slug/related
 GET  /api/categories | /api/health-concerns | /api/brands | /api/offers
-GET  /api/blog | /api/blog/:slug
 POST /api/coupons/validate
 POST /api/cart/summary
 GET/POST /api/orders | PATCH /api/orders/:id/status

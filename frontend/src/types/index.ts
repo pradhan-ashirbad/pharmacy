@@ -144,20 +144,6 @@ export interface Coupon {
   maxDiscount?: number;
 }
 
-export interface BlogPost {
-  slug: string;
-  title: string;
-  excerpt: string;
-  category: string;
-  author: string;
-  authorRole: string;
-  publishedOn: string;
-  readMinutes: number;
-  tint: Tint;
-  icon: IconKey;
-  content: string[]; // paragraphs
-}
-
 export interface Review {
   id: string;
   author: string;

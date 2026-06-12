@@ -13,7 +13,6 @@ import {
 } from "lucide-react";
 
 import { Logo } from "@/components/shared/logo";
-import { ThemeToggle } from "@/components/theme/theme-toggle";
 import { Avatar, AvatarFallback } from "@/components/ui/avatar";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
@@ -111,7 +110,6 @@ export function AdminShell({ children }: { children: React.ReactNode }) {
           </h1>
 
           <div className="ml-auto flex items-center gap-2">
-            <ThemeToggle />
             <Avatar className="h-9 w-9">
               <AvatarFallback className="text-sm">AD</AvatarFallback>
             </Avatar>

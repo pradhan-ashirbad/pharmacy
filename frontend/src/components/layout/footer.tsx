@@ -54,7 +54,6 @@ const footerLinks: { heading: string; links: { label: string; href: string }[] }
     links: [
       { label: "Upload Prescription", href: "/upload-prescription" },
       { label: "Track Order", href: "/track-order" },
-      { label: "Health Blog", href: "/blog" },
       { label: "My Account", href: "/account" },
       { label: "Admin Panel", href: "/admin" },
     ],

@@ -5,7 +5,6 @@ import morgan from "morgan";
 import productsRouter from "./routes/products.js";
 import categoriesRouter from "./routes/categories.js";
 import offersRouter from "./routes/offers.js";
-import blogRouter from "./routes/blog.js";
 import authRouter from "./routes/auth.js";
 import cartRouter from "./routes/cart.js";
 import ordersRouter from "./routes/orders.js";
@@ -26,7 +25,6 @@ app.get("/api/health", (req, res) => {
 app.use("/api/products", productsRouter);
 app.use("/api", categoriesRouter); // /api/categories, /api/health-concerns, /api/brands
 app.use("/api", offersRouter); // /api/offers, /api/coupons/validate
-app.use("/api/blog", blogRouter);
 app.use("/api/auth", authRouter);
 app.use("/api/cart", cartRouter);
 app.use("/api/orders", ordersRouter);

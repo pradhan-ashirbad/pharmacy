@@ -62,8 +62,6 @@ Query params for `GET /api/products`:
 | GET | `/api/health-concerns` | 8 health concerns |
 | GET | `/api/brands` | 12 brands |
 | GET | `/api/offers` | 4 promotional offers |
-| GET | `/api/blog` | 6 blog posts |
-| GET | `/api/blog/:slug` | Single post (404 if missing) |
 
 ### Coupons
 
@@ -131,4 +129,4 @@ only the base fee); GST 12% of net subtotal.
 `src/data/*.json` mirrors the frontend's canonical mock data
 (`frontend/src/data/*.ts`): **68 products** (26 medicines + 26 wellness + 16
 devices), 10 categories, 8 health concerns, 12 brands, 4 offers, 4 coupons,
-6 blog posts, plus admin fixtures and seeded orders/prescriptions.
+Admin fixtures and seeded orders/prescriptions.

@@ -29,8 +29,8 @@ export function ProductVisual({
       aria-hidden="true"
     >
       {/* decorative blurred orbs */}
-      <div className="absolute -left-6 -top-6 h-24 w-24 rounded-full bg-white/40 blur-2xl dark:bg-white/5" />
-      <div className="absolute -bottom-8 -right-8 h-28 w-28 rounded-full bg-white/50 blur-2xl dark:bg-white/5" />
+      <div className="absolute -left-6 -top-6 h-24 w-24 rounded-full bg-white/40 blur-2xl" />
+      <div className="absolute -bottom-8 -right-8 h-28 w-28 rounded-full bg-white/50 blur-2xl" />
       <Icon
         strokeWidth={1.4}
         className={cn("relative h-1/3 w-1/3", tint.text, iconClassName)}
